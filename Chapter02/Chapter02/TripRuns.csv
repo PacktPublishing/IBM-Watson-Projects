@@ -1,0 +1,1005 @@
+RunDate,PickupLocation,DropoffLocation,Primary,Seconday,VehicleType,EventType,Overnight,TipGrade, CustomerType, Guide, Issues, TypeOfPayment
+4/3/10,Boswell,McVeytown,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Hummer Limo ,Holiday ,No ,High ,Individual - New ,No ,Driver Error or Miscalculation ,Cash
+10/8/7,New Paris,Cassandra,Kennywood Park ,Kennywood Park ,Ford Excursion ,Anniversary ,No ,Medium ,School District - Existing ,No ,Weather ,Check
+5/8/9,Adams,Gilberton,Hershey park ,Hershey park ,Sedan ,Anniversary ,Yes ,Medium ,Corporate - Existing ,No , ,Personal Credit Card
+8/10/4,Fairview,Cassandra,Sesame Place ,Sesame Place ,Church Bus ,Cruise ,No ,Medium ,Religous - Existing ,Yes ,Accident ,Credit
+5/7/6,McVeytown,Fairview,Gettysburg ,Gettysburg ,Mini Van ,Holiday ,No ,None ,Religous - New ,No ,Health Related ,Check
+7/10/5,McVeytown,Adams,Philadelphia Zoo ,Philadelphia Zoo ,Min Bus ,Anniversary ,No ,Medium ,Religous - Existing ,Yes ,Health Related ,Check
+2/6/11,Adams,Jefferson,Waldameer and Water World ,Waldameer and Water World ,Towne Car ,Cruise ,No ,Low ,School District - Existing ,No ,Driver Error or Miscalculation ,Invoiced
+10/11/9,Big Run,Cassandra,Philadelphia Zoo ,Philadelphia Zoo ,Church Bus ,Funeral ,No ,None ,Individual - Existing ,Yes ,Personal ,Check
+10/2/6,Cassandra,East Brady,Gettysburg ,Gettysburg ,Sedan ,Holiday ,No ,Low ,Corporate - Existing ,No ,Moving or Traffic Violation ,Personal Credit Card
+9/9/8,McVeytown,Boswell,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Van ,Holiday ,Yes ,High ,School District - Existing ,Yes ,Personal ,Check
+4/12/5,Gilberton,East Brady,Philadelphia Zoo ,Philadelphia Zoo ,Van ,Anniversary ,Yes ,Medium ,School District - Existing ,Yes ,Accident ,Cash
+5/2/10,East Brady,Cassandra,Dutch Wonderland ,Dutch Wonderland ,Min Bus ,Cruise ,No ,High ,School District - Existing ,Yes ,Health Related ,Rewards
+10/11/12,East Brady,Big Run,Liberty Bell ,Liberty Bell ,Hummer Limo ,Funeral ,No ,Low ,School District - Existing ,No ,Driver Error or Miscalculation ,Personal Credit Card
+10/8/8,Boswell,McVeytown,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Anniversary ,No ,High ,Individual - New ,Yes ,Weather ,Invoiced
+2/6/11,Boswell,McVeytown,lost river caverns ,lost river caverns ,Ford Excursion ,Cruise ,No ,Medium ,School District - New ,No ,Driver Error or Miscalculation ,Rewards
+3/9/4,New Paris,Liverpool,Waldameer and Water World ,Waldameer and Water World ,Ford Excursion ,Cruise ,No ,Medium ,Religous - New ,Yes ,Weather ,Invoiced
+10/10/7,East Brady,Boswell,Philadelphia Zoo ,Philadelphia Zoo ,Limo Bus ,Private ,Yes ,None ,School District - New ,Yes ,Moving or Traffic Violation ,Personal Credit Card
+2/11/12,New Paris,Gilberton,Kennywood Park ,Kennywood Park ,Van ,Corporate ,No ,Low ,Individual - Existing ,No ,Personal ,Rewards
+5/2/2,Adams,New Paris,Philadelphia Zoo ,Philadelphia Zoo ,Stretch ,Cruise ,No ,Low ,Religous - New ,No ,Driver Error or Miscalculation ,Check
+10/7/5,Adams,Fairview,Waldameer and Water World ,Waldameer and Water World ,Church Bus ,Corporate ,Yes ,Low ,Corporate - New ,No ,Health Related ,Check
+12/2/5,Gilberton,Cassandra,Waldameer and Water World ,Waldameer and Water World ,Min Bus ,Wedding ,No ,Medium ,Individual - New ,Yes ,Driver Error or Miscalculation ,Invoiced
+7/7/2,Gilberton,Yorkana,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Min Bus ,Holiday ,No ,None ,Individual - New ,No ,Health Related ,Credit
+6/3/3,Big Run,Cassandra,Dorney Park ,Dorney Park ,Hummer Limo ,Wedding ,No ,Medium ,Religous - New ,Yes ,Weather ,Cash
+8/11/6,East Brady,Adams,Philadelphia Zoo ,Philadelphia Zoo ,Towne Car ,Cruise ,Yes ,Medium ,School District - New ,No ,Health Related ,Rewards
+6/2/11,Cassandra,East Brady,Liberty Bell ,Liberty Bell ,Hummer Limo ,Funeral ,No ,Medium ,Religous - New ,No ,Personal ,Personal Credit Card
+12/1/11,East Brady,Boswell,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Sporting Event ,Yes ,None ,School District - Existing ,No ,Moving or Traffic Violation ,Invoiced
+10/12/10,Yorkana,Gilberton,Waldameer and Water World ,Waldameer and Water World ,Van ,Funeral ,No ,Medium ,Corporate - Existing ,Yes ,Personal ,Personal Credit Card
+6/8/11,East Brady,Big Run,Waldameer and Water World ,Waldameer and Water World ,Van ,Holiday ,No ,Low ,Corporate - Existing ,Yes ,Health Related ,Invoiced
+5/1/2,Adams,East Brady,Hershey park ,Hershey park ,Towne Car ,Funeral ,No ,High ,School District - Existing ,No ,Weather ,Check
+12/8/5,Adams,McVeytown,Dorney Park ,Dorney Park ,Hummer Limo ,Graduation ,No ,Low ,Corporate - Existing ,No ,Driver Error or Miscalculation ,Cash
+6/7/6,Liverpool,Jefferson,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Ford Excursion ,Graduation ,Yes ,None ,Individual - Existing ,Yes ,Health Related ,Invoiced
+1/10/8,Adams,Boswell,Liberty Bell ,Liberty Bell ,Mini Van ,Sporting Event ,No ,None ,Individual - Existing ,No ,Maintenance ,Rewards
+7/9/12,Liverpool,McVeytown,Dutch Wonderland ,Dutch Wonderland ,Mini Van ,Cruise ,Yes ,None ,Individual - Existing ,No ,Health Related ,Rewards
+11/3/2,Fairview,Jefferson,lost river caverns ,lost river caverns ,Ford Excursion ,Wedding ,Yes ,High ,Religous - Existing ,No ,Health Related ,Invoiced
+8/6/12,Boswell,Liverpool,lost river caverns ,lost river caverns ,Green Limo ,Corporate ,No ,Low ,Corporate - Existing ,No , ,Invoiced
+9/7/2,Yorkana,New Paris,Dorney Park ,Dorney Park ,Church Bus ,Private ,No ,Low ,Corporate - New ,No ,Moving or Traffic Violation ,Credit
+11/11/5,Cassandra,Adams,Philadelphia Zoo ,Philadelphia Zoo ,Green Limo ,Private ,No ,Low ,Individual - Existing ,Yes ,Maintenance ,Personal Credit Card
+1/1/1,Big Run,Jefferson,Sesame Place ,Sesame Place ,Stretch ,Funeral ,No ,Low ,Individual - New ,Yes ,Maintenance ,Personal Credit Card
+8/2/5,New Paris,East Brady,Dorney Park ,Dorney Park ,Sedan ,Corporate ,Yes ,High ,Religous - New ,No ,Moving or Traffic Violation ,Rewards
+9/10/11,Liverpool,Yorkana,lost river caverns ,lost river caverns ,Towne Car ,Graduation ,Yes ,High ,School District - Existing ,No ,Health Related ,Rewards
+6/2/9,Boswell,Boswell,Liberty Bell ,Liberty Bell ,School Bus ,Private ,Yes ,None ,School District - Existing ,Yes ,Accident ,Rewards
+8/7/12,Gilberton,Fairview,Gettysburg ,Gettysburg ,Green Limo ,Private ,Yes ,None ,School District - Existing ,Yes ,Health Related ,Cash
+6/1/5,Adams,Jefferson,Hershey park ,Hershey park ,Hummer Limo ,Anniversary ,Yes ,High ,Corporate - Existing ,No ,Maintenance ,Cash
+4/4/3,Jefferson,Jefferson,Kennywood Park ,Kennywood Park ,Min Bus ,Holiday ,No ,Low ,Individual - Existing ,No ,Driver Error or Miscalculation ,Cash
+6/4/4,Cassandra,Cassandra,Philadelphia Zoo ,Philadelphia Zoo ,Sedan ,Corporate ,Yes ,None ,Individual - Existing ,Yes ,Health Related ,Check
+11/5/6,Yorkana,McVeytown,Waldameer and Water World ,Waldameer and Water World ,Church Bus ,Birthday ,Yes ,Low ,Individual - New ,Yes ,Moving or Traffic Violation ,Check
+9/2/5,Cassandra,Liverpool,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Sedan ,Funeral ,No ,High ,Religous - Existing ,Yes ,Maintenance ,Invoiced
+4/4/9,Liverpool,Big Run,lost river caverns ,lost river caverns ,Hummer Limo ,Travel/Airport ,No ,Low ,Individual - New ,No , ,Rewards
+9/6/6,Cassandra,Liverpool,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Sedan ,Birthday ,No ,High ,Corporate - New ,Yes ,Accident ,Personal Credit Card
+8/3/3,Big Run,Fairview,Gettysburg ,Gettysburg ,Ford Excursion ,Holiday ,No ,Low ,Religous - New ,Yes ,Maintenance ,Cash
+1/11/5,Boswell,Jefferson,Gettysburg ,Gettysburg ,Hummer Limo ,Corporate ,No ,Medium ,Individual - Existing ,Yes , ,Check
+10/12/10,Jefferson,Yorkana,Liberty Bell ,Liberty Bell ,Min Bus ,Birthday ,No ,Medium ,School District - New ,Yes ,Health Related ,Rewards
+9/6/9,Big Run,Liverpool,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Green Limo ,Cruise ,Yes ,None ,Corporate - Existing ,Yes ,Driver Error or Miscalculation ,Cash
+2/5/11,Liverpool,Gilberton,Waldameer and Water World ,Waldameer and Water World ,Limo Bus ,Funeral ,Yes ,High ,Individual - New ,No , ,Rewards
+3/6/11,Fairview,Gilberton,Hershey park ,Hershey park ,Church Bus ,Birthday ,Yes ,High ,Corporate - New ,Yes ,Health Related ,Personal Credit Card
+12/11/7,Jefferson,New Paris,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Min Bus ,Birthday ,No ,High ,School District - New ,No ,Maintenance ,Credit
+5/10/7,East Brady,East Brady,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Ford Excursion ,Graduation ,No ,None ,Individual - New ,Yes ,Accident ,Rewards
+9/9/12,Gilberton,Fairview,Dorney Park ,Dorney Park ,Stretch ,Tour ,Yes ,None ,Religous - New ,Yes ,Driver Error or Miscalculation ,Invoiced
+8/1/2,Adams,Adams,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,School Bus ,Anniversary ,Yes ,Low ,Corporate - New ,Yes ,Health Related ,Rewards
+2/12/1,Big Run,Big Run,Dutch Wonderland ,Dutch Wonderland ,Sedan ,Travel/Airport ,Yes ,None ,Religous - New ,Yes ,Moving or Traffic Violation ,Personal Credit Card
+3/5/8,Cassandra,Yorkana,Dutch Wonderland ,Dutch Wonderland ,Stretch ,Wedding ,Yes ,Medium ,Religous - New ,Yes , ,Invoiced
+6/6/4,Fairview,Big Run,Dorney Park ,Dorney Park ,School Bus ,Graduation ,No ,High ,School District - New ,Yes ,Health Related ,Credit
+11/12/3,Adams,McVeytown,Sesame Place ,Sesame Place ,School Bus ,Sporting Event ,Yes ,Medium ,Religous - Existing ,No ,Health Related ,Invoiced
+4/7/10,Boswell,Jefferson,Dutch Wonderland ,Dutch Wonderland ,Sedan ,Wedding ,Yes ,Medium ,School District - Existing ,No , ,Cash
+7/4/9,Adams,Jefferson,Gettysburg ,Gettysburg ,Stretch ,Sporting Event ,Yes ,High ,Religous - Existing ,No ,Maintenance ,Credit
+6/5/2,Jefferson,Adams,lost river caverns ,lost river caverns ,Stretch ,Birthday ,Yes ,None ,Corporate - Existing ,Yes ,Maintenance ,Credit
+12/5/2,Boswell,Jefferson,Kennywood Park ,Kennywood Park ,Ford Excursion ,Anniversary ,No ,None ,Religous - Existing ,Yes ,Driver Error or Miscalculation ,Invoiced
+3/4/9,Cassandra,Cassandra,Liberty Bell ,Liberty Bell ,Stretch ,Graduation ,Yes ,Medium ,Religous - Existing ,No , ,Check
+5/2/5,Fairview,Liverpool,Kennywood Park ,Kennywood Park ,Van ,Tour ,Yes ,Medium ,Corporate - Existing ,Yes ,Weather ,Personal Credit Card
+7/4/1,Cassandra,Big Run,lost river caverns ,lost river caverns ,Hummer Limo ,Cruise ,No ,None ,School District - Existing ,No ,Weather ,Cash
+6/11/2,Cassandra,Fairview,Sesame Place ,Sesame Place ,Stretch ,Anniversary ,Yes ,Medium ,Individual - New ,Yes ,Personal ,Personal Credit Card
+9/7/3,Adams,McVeytown,Liberty Bell ,Liberty Bell ,Limo Bus ,Funeral ,No ,Medium ,Religous - New ,No ,Personal ,Rewards
+3/3/10,Cassandra,Fairview,Liberty Bell ,Liberty Bell ,Van ,Graduation ,Yes ,Medium ,Individual - New ,No ,Maintenance ,Invoiced
+8/10/6,Fairview,Fairview,Kennywood Park ,Kennywood Park ,Mini Van ,Cruise ,Yes ,Medium ,Religous - New ,Yes ,Health Related ,Personal Credit Card
+10/4/6,Jefferson,Liverpool,Dutch Wonderland ,Dutch Wonderland ,Stretch ,Sporting Event ,Yes ,None ,Religous - Existing ,No ,Weather ,Cash
+10/12/11,Gilberton,Fairview,Hershey park ,Hershey park ,Hummer Limo ,Private ,Yes ,None ,Corporate - Existing ,No , ,Credit
+9/9/10,Adams,Big Run,Kennywood Park ,Kennywood Park ,Mini Van ,Tour ,Yes ,Medium ,Individual - Existing ,Yes ,Maintenance ,Check
+1/2/3,Cassandra,Cassandra,Gettysburg ,Gettysburg ,Van ,Funeral ,No ,Medium ,Religous - New ,Yes ,Personal ,Check
+10/4/4,Boswell,Big Run,Liberty Bell ,Liberty Bell ,Limo Bus ,Tour ,Yes ,High ,Religous - Existing ,Yes ,Accident ,Credit
+1/1/8,East Brady,Cassandra,Sesame Place ,Sesame Place ,Towne Car ,Wedding ,Yes ,Low ,Religous - Existing ,No ,Maintenance ,Credit
+5/1/7,Yorkana,Fairview,lost river caverns ,lost river caverns ,Towne Car ,Funeral ,Yes ,Low ,Individual - New ,Yes ,Moving or Traffic Violation ,Cash
+12/1/12,Cassandra,Big Run,Dorney Park ,Dorney Park ,Church Bus ,Corporate ,Yes ,High ,Corporate - New ,No , ,Credit
+11/12/2,Big Run,Boswell,Dutch Wonderland ,Dutch Wonderland ,Green Limo ,Holiday ,Yes ,None ,Religous - New ,Yes ,Moving or Traffic Violation ,Credit
+4/7/11,New Paris,Boswell,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Green Limo ,Tour ,Yes ,High ,School District - Existing ,No , ,Invoiced
+10/11/1,Adams,Jefferson,Hershey park ,Hershey park ,Ford Excursion ,Corporate ,No ,Medium ,Religous - Existing ,Yes ,Weather ,Credit
+8/5/1,Adams,Adams,Hershey park ,Hershey park ,Van ,Private ,Yes ,High ,Corporate - Existing ,No ,Driver Error or Miscalculation ,Credit
+10/6/1,Cassandra,Yorkana,Dutch Wonderland ,Dutch Wonderland ,School Bus ,Sporting Event ,No ,High ,Corporate - Existing ,Yes ,Weather ,Check
+8/3/1,Adams,Jefferson,Hershey park ,Hershey park ,School Bus ,Private ,Yes ,None ,School District - New ,No ,Accident ,Rewards
+10/2/7,Yorkana,Big Run,Dutch Wonderland ,Dutch Wonderland ,Sedan ,Birthday ,Yes ,Medium ,Corporate - New ,Yes ,Driver Error or Miscalculation ,Credit
+3/7/5,Liverpool,New Paris,Kennywood Park ,Kennywood Park ,Van ,Tour ,No ,None ,Corporate - Existing ,No ,Weather ,Credit
+12/10/9,Fairview,New Paris,Hershey park ,Hershey park ,Towne Car ,Cruise ,Yes ,High ,Religous - New ,Yes ,Maintenance ,Cash
+4/12/12,Liverpool,Boswell,Gettysburg ,Gettysburg ,Van ,Holiday ,Yes ,Low ,Individual - New ,No ,Weather ,Cash
+5/3/6,East Brady,East Brady,Dutch Wonderland ,Dutch Wonderland ,Church Bus ,Wedding ,Yes ,Medium ,Corporate - Existing ,Yes ,Health Related ,Invoiced
+12/5/12,Liverpool,Cassandra,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Stretch ,Tour ,Yes ,None ,Religous - Existing ,No ,Accident ,Rewards
+4/10/11,Fairview,Liverpool,Philadelphia Zoo ,Philadelphia Zoo ,Mini Van ,Private ,Yes ,High ,School District - New ,No ,Health Related ,Credit
+2/7/5,McVeytown,Liverpool,Liberty Bell ,Liberty Bell ,Mini Van ,Travel/Airport ,No ,Medium ,Individual - New ,No ,Maintenance ,Rewards
+6/2/10,Big Run,Gilberton,Dorney Park ,Dorney Park ,Van ,Birthday ,Yes ,None ,School District - Existing ,No ,Accident ,Rewards
+4/11/7,Yorkana,Yorkana,Kennywood Park ,Kennywood Park ,Limo Bus ,Travel/Airport ,No ,High ,School District - Existing ,No ,Maintenance ,Invoiced
+8/10/8,Liverpool,East Brady,lost river caverns ,lost river caverns ,Sedan ,Cruise ,No ,Low ,Religous - New ,Yes ,Accident ,Check
+3/3/3,East Brady,Cassandra,Dorney Park ,Dorney Park ,Green Limo ,Sporting Event ,No ,High ,Corporate - Existing ,Yes ,Driver Error or Miscalculation ,Invoiced
+7/10/12,New Paris,Cassandra,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Towne Car ,Anniversary ,Yes ,None ,Corporate - New ,Yes ,Health Related ,Rewards
+10/9/4,Adams,Big Run,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Hummer Limo ,Cruise ,No ,Medium ,School District - New ,Yes ,Weather ,Rewards
+4/7/9,Yorkana,Adams,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Min Bus ,Anniversary ,No ,High ,Corporate - New ,Yes , ,Personal Credit Card
+5/4/12,Boswell,Big Run,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Sedan ,Wedding ,Yes ,None ,School District - Existing ,No , ,Cash
+11/5/1,Jefferson,Adams,Hershey park ,Hershey park ,Limo Bus ,Holiday ,Yes ,None ,Individual - New ,No ,Personal ,Cash
+7/1/5,Gilberton,Fairview,Kennywood Park ,Kennywood Park ,Green Limo ,Travel/Airport ,No ,High ,Corporate - Existing ,Yes ,Health Related ,Personal Credit Card
+5/7/8,Jefferson,Adams,lost river caverns ,lost river caverns ,Min Bus ,Corporate ,No ,High ,Corporate - Existing ,Yes , ,Check
+5/3/4,Liverpool,Adams,Waldameer and Water World ,Waldameer and Water World ,Towne Car ,Cruise ,Yes ,Medium ,Corporate - New ,Yes ,Personal ,Credit
+10/6/8,Big Run,Cassandra,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Mini Van ,Holiday ,Yes ,Low ,Religous - New ,Yes ,Weather ,Cash
+2/5/5,Boswell,Boswell,Sesame Place ,Sesame Place ,Sedan ,Anniversary ,Yes ,High ,Corporate - New ,No ,Moving or Traffic Violation ,Rewards
+10/9/1,Gilberton,Yorkana,Kennywood Park ,Kennywood Park ,Limo Bus ,Anniversary ,Yes ,None ,School District - Existing ,No ,Maintenance ,Invoiced
+5/10/11,Gilberton,Boswell,Hershey park ,Hershey park ,Stretch ,Tour ,Yes ,Medium ,Individual - New ,No ,Accident ,Cash
+7/5/7,Big Run,Liverpool,lost river caverns ,lost river caverns ,Hummer Limo ,Private ,No ,None ,Corporate - New ,Yes ,Health Related ,Credit
+10/3/3,Fairview,Yorkana,Liberty Bell ,Liberty Bell ,Min Bus ,Holiday ,No ,Medium ,Religous - Existing ,No ,Driver Error or Miscalculation ,Credit
+2/4/6,Boswell,Jefferson,Liberty Bell ,Liberty Bell ,Limo Bus ,Wedding ,Yes ,High ,Religous - New ,No ,Accident ,Check
+6/8/2,Cassandra,Cassandra,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Van ,Anniversary ,No ,Low ,Corporate - New ,Yes ,Health Related ,Check
+11/4/3,Boswell,Cassandra,Hershey park ,Hershey park ,Stretch ,Corporate ,Yes ,None ,Individual - Existing ,No ,Health Related ,Rewards
+8/4/4,Jefferson,Fairview,Philadelphia Zoo ,Philadelphia Zoo ,School Bus ,Cruise ,No ,Low ,Individual - Existing ,Yes ,Maintenance ,Credit
+9/12/4,Cassandra,Big Run,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Church Bus ,Sporting Event ,No ,High ,Individual - Existing ,No ,Driver Error or Miscalculation ,Rewards
+1/12/8,New Paris,Liverpool,Gettysburg ,Gettysburg ,School Bus ,Holiday ,Yes ,Low ,Corporate - New ,No ,Moving or Traffic Violation ,Personal Credit Card
+3/10/9,Big Run,Fairview,Philadelphia Zoo ,Philadelphia Zoo ,Ford Excursion ,Travel/Airport ,No ,Medium ,Individual - New ,No ,Health Related ,Invoiced
+8/2/4,Jefferson,Jefferson,Dutch Wonderland ,Dutch Wonderland ,Green Limo ,Holiday ,Yes ,High ,Religous - Existing ,No ,Personal ,Credit
+4/1/4,Fairview,Jefferson,Sesame Place ,Sesame Place ,Stretch ,Travel/Airport ,No ,None ,School District - Existing ,Yes ,Driver Error or Miscalculation ,Rewards
+7/8/3,McVeytown,Fairview,Sesame Place ,Sesame Place ,Van ,Anniversary ,No ,None ,Religous - Existing ,Yes , ,Check
+10/4/10,Cassandra,Cassandra,lost river caverns ,lost river caverns ,Hummer Limo ,Funeral ,Yes ,Medium ,School District - Existing ,No ,Maintenance ,Check
+4/1/8,Cassandra,Adams,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Church Bus ,Birthday ,Yes ,None ,Religous - New ,Yes ,Accident ,Credit
+12/10/5,McVeytown,Adams,Sesame Place ,Sesame Place ,Towne Car ,Private ,No ,High ,Corporate - New ,No ,Accident ,Rewards
+11/5/1,Gilberton,Big Run,Waldameer and Water World ,Waldameer and Water World ,Hummer Limo ,Graduation ,No ,None ,School District - Existing ,No ,Accident ,Check
+8/5/5,Liverpool,Boswell,Sesame Place ,Sesame Place ,Mini Van ,Cruise ,Yes ,High ,Religous - New ,No ,Health Related ,Invoiced
+12/9/3,New Paris,Cassandra,Waldameer and Water World ,Waldameer and Water World ,Green Limo ,Graduation ,No ,High ,School District - Existing ,Yes ,Personal ,Check
+8/9/12,Adams,Jefferson,Sesame Place ,Sesame Place ,Ford Excursion ,Cruise ,No ,High ,Individual - Existing ,No ,Weather ,Rewards
+8/10/9,McVeytown,Boswell,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Hummer Limo ,Private ,Yes ,Medium ,Religous - Existing ,No ,Health Related ,Invoiced
+1/10/8,Adams,McVeytown,Dutch Wonderland ,Dutch Wonderland ,Hummer Limo ,Birthday ,Yes ,High ,Religous - Existing ,Yes ,Accident ,Cash
+11/7/10,Yorkana,Big Run,Philadelphia Zoo ,Philadelphia Zoo ,Towne Car ,Corporate ,No ,None ,School District - Existing ,Yes ,Driver Error or Miscalculation ,Cash
+3/2/10,Yorkana,Yorkana,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,School Bus ,Sporting Event ,No ,Medium ,Corporate - Existing ,No ,Driver Error or Miscalculation ,Invoiced
+1/8/7,Liverpool,Yorkana,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Limo Bus ,Travel/Airport ,No ,High ,Corporate - New ,Yes ,Weather ,Personal Credit Card
+7/2/2,Big Run,Gilberton,Sesame Place ,Sesame Place ,Van ,Sporting Event ,Yes ,Low ,Individual - Existing ,No ,Moving or Traffic Violation ,Check
+1/1/7,Liverpool,New Paris,Dutch Wonderland ,Dutch Wonderland ,Stretch ,Tour ,No ,Medium ,Religous - New ,Yes ,Personal ,Check
+4/2/6,New Paris,Yorkana,Sesame Place ,Sesame Place ,Ford Excursion ,Private ,No ,Medium ,Individual - Existing ,No , ,Personal Credit Card
+11/6/6,Cassandra,East Brady,Liberty Bell ,Liberty Bell ,Sedan ,Birthday ,No ,None ,School District - Existing ,Yes ,Maintenance ,Cash
+5/11/7,Liverpool,Gilberton,Liberty Bell ,Liberty Bell ,Stretch ,Funeral ,No ,High ,Corporate - New ,No ,Maintenance ,Check
+3/4/11,New Paris,Big Run,Gettysburg ,Gettysburg ,Mini Van ,Funeral ,No ,Medium ,School District - Existing ,No ,Driver Error or Miscalculation ,Credit
+3/11/8,Gilberton,Boswell,Dorney Park ,Dorney Park ,Ford Excursion ,Cruise ,Yes ,None ,Religous - Existing ,Yes ,Driver Error or Miscalculation ,Personal Credit Card
+1/1/10,McVeytown,Cassandra,Kennywood Park ,Kennywood Park ,Limo Bus ,Corporate ,Yes ,High ,Religous - New ,No ,Moving or Traffic Violation ,Rewards
+4/3/9,Liverpool,McVeytown,Gettysburg ,Gettysburg ,Hummer Limo ,Funeral ,Yes ,High ,School District - Existing ,No , ,Invoiced
+1/7/3,Liverpool,Gilberton,Kennywood Park ,Kennywood Park ,Towne Car ,Sporting Event ,No ,None ,Individual - Existing ,Yes ,Personal ,Personal Credit Card
+8/1/10,Boswell,McVeytown,Philadelphia Zoo ,Philadelphia Zoo ,School Bus ,Anniversary ,No ,High ,Individual - Existing ,No ,Health Related ,Cash
+8/12/11,Liverpool,McVeytown,lost river caverns ,lost river caverns ,Min Bus ,Travel/Airport ,Yes ,High ,Individual - Existing ,Yes , ,Cash
+3/6/1,New Paris,East Brady,Kennywood Park ,Kennywood Park ,Limo Bus ,Holiday ,No ,Low ,School District - Existing ,Yes ,Health Related ,Check
+8/1/7,Yorkana,Cassandra,Hershey park ,Hershey park ,School Bus ,Wedding ,Yes ,Low ,School District - Existing ,No ,Moving or Traffic Violation ,Invoiced
+1/11/11,Gilberton,McVeytown,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Min Bus ,Travel/Airport ,No ,High ,Individual - Existing ,Yes , ,Cash
+8/5/10,Boswell,East Brady,Kennywood Park ,Kennywood Park ,School Bus ,Travel/Airport ,Yes ,High ,Corporate - New ,No ,Maintenance ,Invoiced
+11/11/12,Adams,Yorkana,Liberty Bell ,Liberty Bell ,Van ,Cruise ,No ,High ,Individual - Existing ,No ,Accident ,Rewards
+9/7/2,Yorkana,Fairview,Dorney Park ,Dorney Park ,Limo Bus ,Private ,No ,Medium ,Religous - Existing ,Yes ,Maintenance ,Cash
+1/3/10,Yorkana,Fairview,Sesame Place ,Sesame Place ,Van ,Private ,No ,None ,Individual - New ,Yes , ,Rewards
+1/8/2,Big Run,Big Run,Gettysburg ,Gettysburg ,Hummer Limo ,Travel/Airport ,No ,High ,Corporate - New ,No ,Health Related ,Rewards
+5/8/6,East Brady,Adams,lost river caverns ,lost river caverns ,School Bus ,Sporting Event ,No ,High ,Religous - Existing ,Yes ,Driver Error or Miscalculation ,Rewards
+10/5/11,McVeytown,Yorkana,Kennywood Park ,Kennywood Park ,Min Bus ,Sporting Event ,No ,None ,Religous - New ,No ,Personal ,Credit
+8/2/6,Liverpool,Liverpool,Gettysburg ,Gettysburg ,Towne Car ,Private ,Yes ,Low ,Corporate - Existing ,Yes ,Personal ,Invoiced
+1/3/8,Cassandra,Cassandra,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Towne Car ,Funeral ,No ,High ,Individual - New ,Yes ,Accident ,Check
+3/6/12,New Paris,Big Run,Hershey park ,Hershey park ,Ford Excursion ,Birthday ,No ,High ,Individual - New ,Yes ,Driver Error or Miscalculation ,Invoiced
+12/7/4,McVeytown,Gilberton,Gettysburg ,Gettysburg ,School Bus ,Private ,Yes ,High ,Individual - Existing ,Yes ,Accident ,Cash
+2/5/9,McVeytown,Cassandra,lost river caverns ,lost river caverns ,Hummer Limo ,Holiday ,Yes ,High ,School District - New ,Yes , ,Cash
+1/11/2,New Paris,Adams,Dorney Park ,Dorney Park ,Limo Bus ,Cruise ,No ,Low ,Corporate - Existing ,No ,Moving or Traffic Violation ,Rewards
+6/2/8,Fairview,Gilberton,lost river caverns ,lost river caverns ,Mini Van ,Anniversary ,No ,None ,Religous - New ,Yes ,Health Related ,Credit
+5/8/8,Cassandra,New Paris,Sesame Place ,Sesame Place ,Hummer Limo ,Funeral ,Yes ,Medium ,School District - Existing ,No ,Personal ,Rewards
+4/3/3,Boswell,Cassandra,Dorney Park ,Dorney Park ,Church Bus ,Corporate ,Yes ,Medium ,School District - Existing ,No ,Maintenance ,Invoiced
+6/4/6,Gilberton,Cassandra,Kennywood Park ,Kennywood Park ,Stretch ,Corporate ,Yes ,Low ,Corporate - Existing ,Yes ,Moving or Traffic Violation ,Personal Credit Card
+2/8/12,Adams,Cassandra,Dutch Wonderland ,Dutch Wonderland ,Limo Bus ,Sporting Event ,Yes ,High ,Religous - Existing ,No ,Personal ,Credit
+7/7/5,Fairview,Jefferson,Sesame Place ,Sesame Place ,Towne Car ,Private ,Yes ,None ,Individual - Existing ,No ,Accident ,Cash
+11/5/8,Gilberton,Big Run,Dutch Wonderland ,Dutch Wonderland ,Green Limo ,Birthday ,Yes ,High ,Corporate - New ,Yes , ,Rewards
+2/5/7,Cassandra,Jefferson,Sesame Place ,Sesame Place ,Mini Van ,Corporate ,Yes ,Low ,Individual - New ,Yes ,Weather ,Personal Credit Card
+11/8/12,Big Run,Cassandra,Gettysburg ,Gettysburg ,School Bus ,Graduation ,Yes ,None ,Religous - Existing ,Yes ,Maintenance ,Rewards
+7/4/8,Boswell,McVeytown,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Travel/Airport ,Yes ,Low ,Religous - Existing ,No ,Maintenance ,Invoiced
+6/8/5,Gilberton,Boswell,Philadelphia Zoo ,Philadelphia Zoo ,Min Bus ,Graduation ,Yes ,Low ,Corporate - New ,Yes , ,Rewards
+1/1/11,New Paris,Cassandra,Gettysburg ,Gettysburg ,School Bus ,Funeral ,Yes ,None ,School District - Existing ,No ,Personal ,Rewards
+3/5/5,Big Run,New Paris,Dutch Wonderland ,Dutch Wonderland ,Mini Van ,Cruise ,No ,None ,Religous - Existing ,Yes ,Moving or Traffic Violation ,Invoiced
+12/3/9,McVeytown,East Brady,Sesame Place ,Sesame Place ,Towne Car ,Birthday ,Yes ,Medium ,Individual - Existing ,No ,Moving or Traffic Violation ,Rewards
+8/8/2,Fairview,New Paris,Liberty Bell ,Liberty Bell ,Sedan ,Funeral ,Yes ,Medium ,Religous - New ,No ,Maintenance ,Credit
+5/11/1,Fairview,Boswell,lost river caverns ,lost river caverns ,Green Limo ,Travel/Airport ,No ,High ,Religous - New ,No ,Moving or Traffic Violation ,Personal Credit Card
+1/9/3,Jefferson,Big Run,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Holiday ,No ,Medium ,Individual - Existing ,Yes ,Personal ,Invoiced
+2/12/11,Fairview,East Brady,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Green Limo ,Birthday ,No ,Low ,School District - Existing ,No ,Health Related ,Cash
+2/1/10,Adams,Fairview,Sesame Place ,Sesame Place ,Church Bus ,Sporting Event ,No ,High ,School District - New ,Yes ,Driver Error or Miscalculation ,Check
+12/5/5,Fairview,Yorkana,Waldameer and Water World ,Waldameer and Water World ,Sedan ,Anniversary ,Yes ,High ,Religous - New ,No ,Maintenance ,Invoiced
+3/1/5,Gilberton,Big Run,lost river caverns ,lost river caverns ,Green Limo ,Birthday ,No ,High ,Corporate - Existing ,No ,Health Related ,Rewards
+8/11/9,Fairview,Jefferson,Philadelphia Zoo ,Philadelphia Zoo ,School Bus ,Birthday ,No ,Medium ,Religous - New ,Yes ,Personal ,Check
+4/10/6,Cassandra,Jefferson,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Towne Car ,Graduation ,Yes ,Medium ,School District - Existing ,Yes ,Personal ,Rewards
+1/7/6,Boswell,Gilberton,Liberty Bell ,Liberty Bell ,Church Bus ,Cruise ,Yes ,Medium ,Religous - New ,Yes , ,Cash
+2/1/5,Gilberton,Cassandra,lost river caverns ,lost river caverns ,Stretch ,Travel/Airport ,Yes ,None ,School District - Existing ,No ,Health Related ,Credit
+8/12/5,Gilberton,Boswell,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Mini Van ,Tour ,No ,None ,School District - Existing ,No , ,Personal Credit Card
+10/7/3,Jefferson,Big Run,Philadelphia Zoo ,Philadelphia Zoo ,Sedan ,Birthday ,No ,High ,Religous - New ,No ,Personal ,Personal Credit Card
+10/10/6,McVeytown,McVeytown,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Sedan ,Anniversary ,No ,Low ,Religous - Existing ,Yes ,Driver Error or Miscalculation ,Rewards
+12/12/9,Liverpool,Boswell,Sesame Place ,Sesame Place ,School Bus ,Private ,Yes ,Low ,Religous - New ,No ,Driver Error or Miscalculation ,Rewards
+12/1/12,East Brady,Yorkana,Dorney Park ,Dorney Park ,Towne Car ,Birthday ,Yes ,High ,School District - Existing ,No ,Driver Error or Miscalculation ,Credit
+7/11/3,Boswell,Fairview,Sesame Place ,Sesame Place ,Min Bus ,Corporate ,No ,None ,Individual - New ,No ,Accident ,Credit
+4/1/7,East Brady,Liverpool,Hershey park ,Hershey park ,School Bus ,Travel/Airport ,No ,None ,School District - New ,Yes ,Weather ,Credit
+1/1/11,Yorkana,Adams,Kennywood Park ,Kennywood Park ,Van ,Cruise ,Yes ,Medium ,Corporate - Existing ,No , ,Invoiced
+3/9/11,Cassandra,Jefferson,Kennywood Park ,Kennywood Park ,Mini Van ,Holiday ,No ,None ,Corporate - Existing ,Yes ,Health Related ,Personal Credit Card
+10/5/10,Cassandra,Cassandra,Dutch Wonderland ,Dutch Wonderland ,Hummer Limo ,Holiday ,No ,Low ,Religous - New ,Yes , ,Rewards
+8/6/5,Fairview,Cassandra,lost river caverns ,lost river caverns ,Limo Bus ,Corporate ,No ,High ,School District - New ,Yes ,Maintenance ,Personal Credit Card
+8/8/7,Gilberton,New Paris,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Green Limo ,Anniversary ,Yes ,High ,Corporate - Existing ,Yes ,Health Related ,Cash
+8/8/11,McVeytown,East Brady,Dorney Park ,Dorney Park ,Church Bus ,Private ,No ,Medium ,Individual - Existing ,No ,Moving or Traffic Violation ,Cash
+4/2/10,Big Run,Fairview,Dutch Wonderland ,Dutch Wonderland ,Min Bus ,Sporting Event ,Yes ,Low ,Corporate - New ,Yes ,Health Related ,Check
+9/2/11,Gilberton,Big Run,Philadelphia Zoo ,Philadelphia Zoo ,Green Limo ,Wedding ,No ,None ,Individual - New ,Yes ,Maintenance ,Invoiced
+9/2/7,Liverpool,Big Run,Liberty Bell ,Liberty Bell ,Towne Car ,Sporting Event ,No ,Low ,School District - Existing ,No ,Weather ,Check
+3/9/11,Adams,Liverpool,lost river caverns ,lost river caverns ,Hummer Limo ,Sporting Event ,No ,Low ,Corporate - New ,Yes ,Driver Error or Miscalculation ,Rewards
+10/1/5,Liverpool,Big Run,Liberty Bell ,Liberty Bell ,Van ,Sporting Event ,No ,High ,School District - Existing ,No ,Accident ,Credit
+5/10/8,Big Run,Liverpool,Philadelphia Zoo ,Philadelphia Zoo ,Limo Bus ,Funeral ,No ,Medium ,Religous - New ,No ,Accident ,Personal Credit Card
+6/6/5,Boswell,Adams,Gettysburg ,Gettysburg ,Towne Car ,Corporate ,Yes ,Medium ,Corporate - New ,Yes ,Personal ,Cash
+1/7/5,McVeytown,McVeytown,Hershey park ,Hershey park ,Mini Van ,Corporate ,No ,Low ,School District - New ,No ,Driver Error or Miscalculation ,Rewards
+12/6/4,Adams,McVeytown,Dutch Wonderland ,Dutch Wonderland ,Green Limo ,Sporting Event ,No ,None ,School District - New ,No ,Maintenance ,Rewards
+3/5/8,Jefferson,Liverpool,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Green Limo ,Travel/Airport ,No ,High ,Religous - New ,No ,Health Related ,Credit
+7/12/4,Yorkana,Liverpool,Dutch Wonderland ,Dutch Wonderland ,Hummer Limo ,Funeral ,No ,High ,Religous - New ,Yes , ,Credit
+11/12/9,New Paris,Yorkana,Dorney Park ,Dorney Park ,Mini Van ,Anniversary ,No ,High ,Religous - Existing ,No ,Health Related ,Check
+9/3/9,New Paris,East Brady,lost river caverns ,lost river caverns ,Church Bus ,Funeral ,No ,Medium ,Individual - New ,Yes ,Maintenance ,Check
+2/11/4,Adams,Liverpool,Waldameer and Water World ,Waldameer and Water World ,Min Bus ,Holiday ,Yes ,High ,School District - New ,Yes ,Driver Error or Miscalculation ,Personal Credit Card
+7/10/2,Jefferson,Liverpool,Philadelphia Zoo ,Philadelphia Zoo ,Van ,Travel/Airport ,No ,Medium ,Corporate - New ,Yes ,Personal ,Invoiced
+7/9/8,Adams,Fairview,Liberty Bell ,Liberty Bell ,Church Bus ,Travel/Airport ,No ,Low ,School District - New ,No ,Health Related ,Cash
+3/7/4,McVeytown,New Paris,Kennywood Park ,Kennywood Park ,Limo Bus ,Funeral ,No ,High ,Individual - New ,Yes ,Maintenance ,Cash
+4/2/8,McVeytown,Yorkana,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,School Bus ,Anniversary ,No ,Low ,Corporate - New ,Yes ,Maintenance ,Cash
+3/10/10,East Brady,Big Run,Dorney Park ,Dorney Park ,Mini Van ,Tour ,No ,Low ,Corporate - New ,No ,Weather ,Check
+12/4/10,Fairview,McVeytown,Dorney Park ,Dorney Park ,Ford Excursion ,Graduation ,No ,Low ,School District - New ,Yes ,Health Related ,Cash
+11/8/10,Cassandra,Fairview,Philadelphia Zoo ,Philadelphia Zoo ,Min Bus ,Corporate ,Yes ,Low ,School District - New ,Yes , ,Check
+11/8/7,Boswell,New Paris,Kennywood Park ,Kennywood Park ,Hummer Limo ,Corporate ,Yes ,None ,Individual - Existing ,Yes , ,Check
+5/2/12,Jefferson,Fairview,Philadelphia Zoo ,Philadelphia Zoo ,Hummer Limo ,Wedding ,No ,Medium ,School District - Existing ,No ,Maintenance ,Personal Credit Card
+2/12/3,Gilberton,Cassandra,Kennywood Park ,Kennywood Park ,Ford Excursion ,Wedding ,No ,None ,School District - New ,Yes ,Driver Error or Miscalculation ,Personal Credit Card
+6/12/5,Gilberton,Yorkana,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Mini Van ,Tour ,Yes ,High ,Individual - New ,Yes ,Driver Error or Miscalculation ,Cash
+7/2/12,Fairview,Liverpool,Dorney Park ,Dorney Park ,Ford Excursion ,Birthday ,No ,Medium ,Religous - Existing ,No ,Accident ,Invoiced
+4/5/10,Gilberton,Cassandra,Liberty Bell ,Liberty Bell ,Church Bus ,Corporate ,No ,Low ,Corporate - Existing ,Yes ,Personal ,Credit
+4/7/1,McVeytown,East Brady,Philadelphia Zoo ,Philadelphia Zoo ,Green Limo ,Travel/Airport ,Yes ,Low ,Religous - New ,No ,Health Related ,Rewards
+2/12/3,Cassandra,Cassandra,Hershey park ,Hershey park ,Church Bus ,Travel/Airport ,No ,Low ,Corporate - New ,No ,Maintenance ,Rewards
+4/4/3,Big Run,Cassandra,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,School Bus ,Sporting Event ,Yes ,High ,Corporate - New ,No ,Health Related ,Personal Credit Card
+1/12/12,Jefferson,Cassandra,Kennywood Park ,Kennywood Park ,School Bus ,Anniversary ,No ,None ,Individual - New ,No ,Driver Error or Miscalculation ,Personal Credit Card
+8/11/10,Yorkana,Big Run,Sesame Place ,Sesame Place ,Sedan ,Private ,Yes ,High ,Individual - Existing ,No ,Health Related ,Cash
+6/9/11,Boswell,Liverpool,lost river caverns ,lost river caverns ,Mini Van ,Corporate ,No ,High ,Individual - Existing ,No ,Health Related ,Personal Credit Card
+8/11/10,Boswell,Yorkana,Kennywood Park ,Kennywood Park ,School Bus ,Private ,No ,Medium ,Individual - Existing ,No ,Maintenance ,Rewards
+7/8/1,Gilberton,McVeytown,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Hummer Limo ,Funeral ,Yes ,Low ,Corporate - Existing ,Yes ,Driver Error or Miscalculation ,Credit
+5/4/12,Boswell,Cassandra,Waldameer and Water World ,Waldameer and Water World ,Hummer Limo ,Cruise ,Yes ,None ,Individual - New ,Yes ,Moving or Traffic Violation ,Personal Credit Card
+3/7/1,Cassandra,East Brady,Sesame Place ,Sesame Place ,Stretch ,Funeral ,Yes ,High ,Individual - Existing ,No ,Weather ,Invoiced
+1/9/7,McVeytown,Gilberton,Liberty Bell ,Liberty Bell ,Sedan ,Tour ,No ,High ,Religous - Existing ,No ,Personal ,Credit
+7/4/1,McVeytown,Big Run,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,School Bus ,Corporate ,Yes ,Medium ,Religous - Existing ,No , ,Personal Credit Card
+3/1/8,Liverpool,Big Run,Sesame Place ,Sesame Place ,School Bus ,Sporting Event ,No ,Medium ,Religous - Existing ,No ,Accident ,Personal Credit Card
+3/1/2,Adams,Fairview,Philadelphia Zoo ,Philadelphia Zoo ,Stretch ,Private ,No ,Low ,School District - New ,No ,Accident ,Check
+9/4/11,McVeytown,Gilberton,Philadelphia Zoo ,Philadelphia Zoo ,Van ,Private ,No ,None ,Individual - New ,Yes ,Health Related ,Cash
+10/9/8,Adams,New Paris,Waldameer and Water World ,Waldameer and Water World ,Min Bus ,Anniversary ,No ,None ,Corporate - Existing ,No ,Driver Error or Miscalculation ,Personal Credit Card
+4/2/5,Boswell,East Brady,Dutch Wonderland ,Dutch Wonderland ,Van ,Private ,Yes ,Low ,Individual - New ,Yes ,Maintenance ,Check
+1/6/9,Jefferson,Fairview,Kennywood Park ,Kennywood Park ,Van ,Sporting Event ,Yes ,None ,Corporate - Existing ,No ,Weather ,Cash
+2/6/1,Adams,East Brady,Philadelphia Zoo ,Philadelphia Zoo ,Mini Van ,Anniversary ,No ,High ,School District - New ,Yes ,Health Related ,Cash
+4/8/7,McVeytown,Fairview,Sesame Place ,Sesame Place ,School Bus ,Graduation ,No ,Medium ,Religous - New ,No , ,Cash
+5/5/12,New Paris,Yorkana,lost river caverns ,lost river caverns ,Van ,Travel/Airport ,No ,None ,School District - New ,No ,Driver Error or Miscalculation ,Cash
+10/7/3,Boswell,Jefferson,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Sedan ,Funeral ,Yes ,Medium ,School District - Existing ,Yes ,Accident ,Rewards
+4/1/10,Big Run,McVeytown,Hershey park ,Hershey park ,School Bus ,Anniversary ,No ,Medium ,School District - New ,No ,Weather ,Check
+12/2/7,Gilberton,Gilberton,Dutch Wonderland ,Dutch Wonderland ,Hummer Limo ,Wedding ,No ,Medium ,School District - New ,No ,Maintenance ,Credit
+9/6/3,New Paris,Big Run,Gettysburg ,Gettysburg ,Sedan ,Cruise ,Yes ,Medium ,Individual - Existing ,Yes ,Personal ,Cash
+8/3/1,New Paris,McVeytown,Waldameer and Water World ,Waldameer and Water World ,Min Bus ,Holiday ,No ,None ,Corporate - Existing ,No ,Health Related ,Check
+12/3/5,Boswell,Liverpool,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,School Bus ,Private ,No ,Low ,Corporate - New ,No ,Driver Error or Miscalculation ,Personal Credit Card
+2/3/10,Adams,Jefferson,Liberty Bell ,Liberty Bell ,Sedan ,Funeral ,Yes ,None ,Corporate - New ,No ,Personal ,Check
+5/4/11,Adams,Fairview,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Limo Bus ,Corporate ,Yes ,None ,Individual - Existing ,No ,Driver Error or Miscalculation ,Check
+12/9/12,Boswell,Fairview,Hershey park ,Hershey park ,Green Limo ,Anniversary ,No ,None ,Individual - Existing ,Yes ,Moving or Traffic Violation ,Invoiced
+11/2/4,McVeytown,Liverpool,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,School Bus ,Private ,Yes ,None ,Individual - Existing ,Yes ,Accident ,Credit
+1/6/3,Liverpool,Boswell,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Green Limo ,Corporate ,No ,Low ,Religous - New ,Yes ,Accident ,Credit
+3/3/11,Adams,New Paris,Gettysburg ,Gettysburg ,Towne Car ,Travel/Airport ,Yes ,High ,School District - New ,No ,Weather ,Rewards
+3/10/6,East Brady,Fairview,Philadelphia Zoo ,Philadelphia Zoo ,Min Bus ,Funeral ,Yes ,High ,Religous - Existing ,No ,Driver Error or Miscalculation ,Personal Credit Card
+7/6/5,Gilberton,Yorkana,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Hummer Limo ,Cruise ,No ,Low ,Individual - Existing ,No ,Driver Error or Miscalculation ,Rewards
+12/10/1,Adams,Yorkana,Dorney Park ,Dorney Park ,Min Bus ,Birthday ,No ,Low ,Individual - New ,Yes ,Driver Error or Miscalculation ,Invoiced
+2/3/12,Cassandra,Boswell,Sesame Place ,Sesame Place ,Towne Car ,Wedding ,No ,Medium ,Corporate - New ,No ,Weather ,Cash
+2/7/9,Cassandra,Big Run,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Limo Bus ,Funeral ,Yes ,Low ,Corporate - Existing ,No ,Accident ,Cash
+3/3/4,Gilberton,Fairview,lost river caverns ,lost river caverns ,Green Limo ,Wedding ,Yes ,High ,Individual - New ,Yes ,Health Related ,Personal Credit Card
+3/1/1,Adams,McVeytown,Dutch Wonderland ,Dutch Wonderland ,Towne Car ,Cruise ,Yes ,None ,Religous - New ,Yes , ,Personal Credit Card
+7/6/8,Adams,Adams,Philadelphia Zoo ,Philadelphia Zoo ,Stretch ,Holiday ,No ,None ,Individual - New ,No ,Health Related ,Invoiced
+9/11/3,East Brady,Jefferson,Kennywood Park ,Kennywood Park ,Ford Excursion ,Birthday ,No ,Low ,School District - Existing ,Yes ,Maintenance ,Credit
+12/5/10,Boswell,Gilberton,Kennywood Park ,Kennywood Park ,Hummer Limo ,Anniversary ,Yes ,Medium ,Religous - Existing ,Yes ,Accident ,Invoiced
+12/8/6,Boswell,Yorkana,Sesame Place ,Sesame Place ,Green Limo ,Birthday ,Yes ,Low ,Corporate - New ,Yes ,Maintenance ,Personal Credit Card
+10/7/3,Adams,McVeytown,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Limo Bus ,Funeral ,No ,Medium ,Individual - Existing ,Yes , ,Check
+8/10/1,East Brady,Fairview,Liberty Bell ,Liberty Bell ,Sedan ,Sporting Event ,Yes ,High ,Corporate - Existing ,Yes ,Driver Error or Miscalculation ,Invoiced
+11/1/12,Jefferson,Jefferson,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Sporting Event ,No ,Medium ,School District - New ,No ,Personal ,Check
+9/6/10,McVeytown,Yorkana,Waldameer and Water World ,Waldameer and Water World ,Church Bus ,Private ,No ,Medium ,Religous - New ,No ,Health Related ,Invoiced
+5/2/4,Big Run,Yorkana,Hershey park ,Hershey park ,Hummer Limo ,Wedding ,No ,Medium ,Individual - Existing ,No ,Weather ,Cash
+3/5/3,Liverpool,Jefferson,lost river caverns ,lost river caverns ,Towne Car ,Anniversary ,No ,High ,Corporate - Existing ,No ,Accident ,Check
+8/4/2,Adams,Yorkana,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Birthday ,Yes ,None ,Religous - Existing ,Yes ,Health Related ,Rewards
+1/10/1,Big Run,Liverpool,Dutch Wonderland ,Dutch Wonderland ,Min Bus ,Travel/Airport ,Yes ,Low ,Religous - New ,No ,Driver Error or Miscalculation ,Invoiced
+7/1/8,Fairview,Liverpool,Waldameer and Water World ,Waldameer and Water World ,Towne Car ,Birthday ,Yes ,Low ,Religous - Existing ,Yes ,Moving or Traffic Violation ,Cash
+4/12/1,Boswell,Liverpool,lost river caverns ,lost river caverns ,Ford Excursion ,Funeral ,No ,Medium ,Corporate - New ,No ,Driver Error or Miscalculation ,Check
+9/1/3,McVeytown,Boswell,Liberty Bell ,Liberty Bell ,Min Bus ,Sporting Event ,Yes ,High ,Individual - Existing ,Yes ,Personal ,Rewards
+2/6/6,Gilberton,Gilberton,Dutch Wonderland ,Dutch Wonderland ,Towne Car ,Cruise ,No ,Low ,Religous - New ,No ,Maintenance ,Invoiced
+11/12/1,Fairview,Cassandra,Gettysburg ,Gettysburg ,Green Limo ,Corporate ,Yes ,None ,School District - Existing ,Yes ,Weather ,Cash
+4/10/10,Cassandra,Big Run,Waldameer and Water World ,Waldameer and Water World ,Limo Bus ,Private ,No ,Medium ,School District - Existing ,No , ,Cash
+5/3/7,Jefferson,Gilberton,Hershey park ,Hershey park ,Church Bus ,Tour ,No ,Low ,Religous - New ,Yes ,Health Related ,Check
+11/5/11,New Paris,Cassandra,Kennywood Park ,Kennywood Park ,School Bus ,Tour ,No ,Low ,School District - Existing ,Yes ,Accident ,Rewards
+10/4/11,Yorkana,Fairview,Gettysburg ,Gettysburg ,Towne Car ,Birthday ,Yes ,Medium ,Individual - New ,Yes ,Weather ,Credit
+9/4/8,Fairview,Liverpool,Sesame Place ,Sesame Place ,Hummer Limo ,Corporate ,Yes ,Medium ,Religous - New ,Yes ,Moving or Traffic Violation ,Cash
+2/1/3,McVeytown,Boswell,Liberty Bell ,Liberty Bell ,Green Limo ,Tour ,Yes ,Low ,Corporate - New ,No , ,Check
+4/7/12,Big Run,Jefferson,Kennywood Park ,Kennywood Park ,Sedan ,Holiday ,No ,High ,Individual - Existing ,Yes , ,Cash
+6/5/5,East Brady,McVeytown,Dutch Wonderland ,Dutch Wonderland ,Ford Excursion ,Birthday ,Yes ,Medium ,School District - New ,Yes ,Accident ,Invoiced
+6/5/5,Gilberton,McVeytown,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Green Limo ,Holiday ,Yes ,None ,Individual - Existing ,No ,Maintenance ,Check
+10/2/1,McVeytown,Fairview,Gettysburg ,Gettysburg ,Min Bus ,Birthday ,No ,None ,Corporate - New ,No ,Moving or Traffic Violation ,Rewards
+8/12/10,Yorkana,Boswell,Liberty Bell ,Liberty Bell ,School Bus ,Private ,Yes ,High ,School District - New ,Yes , ,Personal Credit Card
+10/1/8,Gilberton,Yorkana,Philadelphia Zoo ,Philadelphia Zoo ,Min Bus ,Wedding ,No ,Medium ,School District - New ,Yes ,Weather ,Rewards
+6/2/12,Big Run,Cassandra,Waldameer and Water World ,Waldameer and Water World ,Min Bus ,Holiday ,No ,High ,Religous - New ,Yes ,Moving or Traffic Violation ,Invoiced
+5/5/7,Boswell,Adams,Sesame Place ,Sesame Place ,Ford Excursion ,Tour ,No ,High ,Corporate - New ,Yes ,Weather ,Check
+4/8/7,Adams,Fairview,Waldameer and Water World ,Waldameer and Water World ,Church Bus ,Cruise ,Yes ,Medium ,Religous - Existing ,No , ,Invoiced
+9/9/6,Cassandra,Cassandra,Kennywood Park ,Kennywood Park ,Ford Excursion ,Funeral ,Yes ,High ,Corporate - Existing ,Yes ,Accident ,Check
+3/4/4,Adams,Gilberton,Waldameer and Water World ,Waldameer and Water World ,Green Limo ,Graduation ,Yes ,High ,Individual - Existing ,Yes ,Moving or Traffic Violation ,Cash
+1/1/4,New Paris,Boswell,Gettysburg ,Gettysburg ,Limo Bus ,Cruise ,No ,Low ,Individual - New ,No ,Health Related ,Rewards
+2/3/11,Gilberton,Big Run,Dorney Park ,Dorney Park ,Mini Van ,Birthday ,Yes ,High ,Corporate - Existing ,Yes ,Health Related ,Rewards
+6/9/5,Cassandra,East Brady,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Mini Van ,Private ,No ,None ,School District - Existing ,Yes ,Health Related ,Invoiced
+12/11/5,East Brady,Yorkana,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Van ,Tour ,No ,Low ,Individual - Existing ,No ,Accident ,Cash
+3/7/6,Yorkana,Liverpool,Waldameer and Water World ,Waldameer and Water World ,Stretch ,Wedding ,No ,Medium ,Corporate - New ,Yes ,Moving or Traffic Violation ,Rewards
+2/12/7,Fairview,Liverpool,Liberty Bell ,Liberty Bell ,Towne Car ,Anniversary ,Yes ,Medium ,School District - Existing ,No ,Maintenance ,Personal Credit Card
+5/12/12,Big Run,Fairview,Sesame Place ,Sesame Place ,Stretch ,Holiday ,No ,None ,Religous - New ,No ,Personal ,Rewards
+3/11/11,Adams,East Brady,Waldameer and Water World ,Waldameer and Water World ,Stretch ,Corporate ,No ,Low ,Corporate - Existing ,Yes ,Health Related ,Check
+4/8/9,McVeytown,Big Run,Philadelphia Zoo ,Philadelphia Zoo ,Church Bus ,Birthday ,Yes ,High ,Religous - New ,No ,Personal ,Cash
+10/8/12,Fairview,Boswell,Philadelphia Zoo ,Philadelphia Zoo ,Hummer Limo ,Anniversary ,Yes ,Low ,School District - New ,Yes ,Health Related ,Personal Credit Card
+5/10/6,Fairview,Adams,Dutch Wonderland ,Dutch Wonderland ,Mini Van ,Birthday ,No ,High ,School District - Existing ,Yes ,Driver Error or Miscalculation ,Credit
+4/4/1,McVeytown,Yorkana,Liberty Bell ,Liberty Bell ,Min Bus ,Birthday ,No ,None ,School District - Existing ,No ,Maintenance ,Personal Credit Card
+2/6/11,New Paris,McVeytown,Liberty Bell ,Liberty Bell ,Van ,Sporting Event ,Yes ,Medium ,Religous - Existing ,Yes ,Driver Error or Miscalculation ,Credit
+12/11/6,New Paris,McVeytown,lost river caverns ,lost river caverns ,Hummer Limo ,Wedding ,No ,None ,School District - Existing ,Yes ,Maintenance ,Cash
+12/9/3,Boswell,Adams,Hershey park ,Hershey park ,Sedan ,Holiday ,Yes ,None ,School District - Existing ,No ,Weather ,Cash
+3/10/11,New Paris,Jefferson,Kennywood Park ,Kennywood Park ,Ford Excursion ,Anniversary ,No ,Medium ,Religous - New ,Yes ,Maintenance ,Personal Credit Card
+8/3/6,Adams,Cassandra,Dutch Wonderland ,Dutch Wonderland ,School Bus ,Anniversary ,No ,Low ,Individual - New ,Yes ,Accident ,Personal Credit Card
+12/7/7,Fairview,Gilberton,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Sedan ,Private ,No ,Medium ,School District - New ,Yes ,Driver Error or Miscalculation ,Rewards
+7/8/8,Yorkana,Gilberton,lost river caverns ,lost river caverns ,Min Bus ,Holiday ,No ,High ,Corporate - Existing ,Yes ,Health Related ,Rewards
+11/12/9,Boswell,Adams,Sesame Place ,Sesame Place ,Hummer Limo ,Tour ,Yes ,None ,Individual - Existing ,No ,Health Related ,Personal Credit Card
+6/11/9,McVeytown,New Paris,Sesame Place ,Sesame Place ,Min Bus ,Funeral ,No ,Medium ,Religous - Existing ,No ,Driver Error or Miscalculation ,Check
+2/8/2,New Paris,Jefferson,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Van ,Anniversary ,Yes ,None ,Corporate - New ,Yes ,Accident ,Credit
+6/12/1,Yorkana,New Paris,Dutch Wonderland ,Dutch Wonderland ,Min Bus ,Corporate ,No ,Medium ,Corporate - Existing ,Yes ,Accident ,Personal Credit Card
+10/11/8,Gilberton,Gilberton,Dutch Wonderland ,Dutch Wonderland ,Van ,Graduation ,Yes ,Low ,School District - New ,No ,Moving or Traffic Violation ,Rewards
+6/12/9,Yorkana,Liverpool,Kennywood Park ,Kennywood Park ,Green Limo ,Cruise ,Yes ,High ,School District - Existing ,Yes ,Personal ,Rewards
+4/8/12,Big Run,East Brady,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Sedan ,Tour ,Yes ,None ,School District - New ,Yes ,Personal ,Cash
+8/5/4,Jefferson,New Paris,lost river caverns ,lost river caverns ,Green Limo ,Travel/Airport ,Yes ,Medium ,School District - New ,No ,Moving or Traffic Violation ,Check
+2/2/9,Yorkana,Yorkana,Gettysburg ,Gettysburg ,Mini Van ,Wedding ,No ,Medium ,Individual - Existing ,No , ,Personal Credit Card
+7/8/12,McVeytown,Fairview,Gettysburg ,Gettysburg ,Towne Car ,Private ,No ,None ,Religous - Existing ,No ,Health Related ,Credit
+12/1/12,Big Run,Fairview,Sesame Place ,Sesame Place ,Mini Van ,Holiday ,Yes ,None ,School District - Existing ,No , ,Rewards
+7/4/8,Fairview,New Paris,lost river caverns ,lost river caverns ,Limo Bus ,Private ,No ,None ,Religous - New ,No ,Moving or Traffic Violation ,Invoiced
+12/4/2,Jefferson,McVeytown,Liberty Bell ,Liberty Bell ,Green Limo ,Wedding ,No ,Medium ,School District - New ,Yes ,Weather ,Rewards
+3/8/6,New Paris,Fairview,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Green Limo ,Private ,Yes ,Medium ,Corporate - New ,No , ,Check
+2/9/1,Boswell,New Paris,Hershey park ,Hershey park ,Sedan ,Wedding ,No ,Medium ,Corporate - Existing ,Yes ,Accident ,Cash
+1/3/1,Yorkana,McVeytown,Liberty Bell ,Liberty Bell ,Church Bus ,Holiday ,No ,None ,Religous - Existing ,No ,Personal ,Invoiced
+4/11/11,Big Run,Big Run,Hershey park ,Hershey park ,Church Bus ,Tour ,Yes ,High ,Corporate - Existing ,Yes ,Moving or Traffic Violation ,Rewards
+6/6/6,Gilberton,Fairview,Philadelphia Zoo ,Philadelphia Zoo ,Green Limo ,Holiday ,No ,High ,Religous - New ,Yes ,Maintenance ,Personal Credit Card
+10/12/9,Boswell,Jefferson,Kennywood Park ,Kennywood Park ,School Bus ,Funeral ,No ,High ,Corporate - Existing ,No ,Health Related ,Personal Credit Card
+6/6/10,McVeytown,Liverpool,Kennywood Park ,Kennywood Park ,Sedan ,Holiday ,No ,None ,Religous - New ,Yes ,Weather ,Rewards
+7/11/6,McVeytown,Cassandra,Hershey park ,Hershey park ,Van ,Birthday ,No ,Low ,Religous - New ,Yes ,Driver Error or Miscalculation ,Check
+6/2/9,Fairview,Yorkana,Gettysburg ,Gettysburg ,Green Limo ,Private ,No ,High ,School District - New ,No ,Weather ,Personal Credit Card
+12/4/2,Boswell,Jefferson,lost river caverns ,lost river caverns ,Ford Excursion ,Sporting Event ,Yes ,Medium ,Religous - New ,Yes ,Personal ,Credit
+7/6/1,McVeytown,Gilberton,lost river caverns ,lost river caverns ,Van ,Wedding ,Yes ,High ,Individual - New ,Yes ,Personal ,Personal Credit Card
+7/3/2,East Brady,Boswell,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Min Bus ,Holiday ,No ,None ,Individual - New ,No ,Personal ,Credit
+4/9/12,Liverpool,Cassandra,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Church Bus ,Tour ,No ,High ,Individual - Existing ,No ,Maintenance ,Credit
+5/11/8,Jefferson,Boswell,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Hummer Limo ,Graduation ,No ,None ,Individual - Existing ,No ,Weather ,Invoiced
+8/9/11,New Paris,Cassandra,Dutch Wonderland ,Dutch Wonderland ,Hummer Limo ,Funeral ,Yes ,Low ,Religous - New ,Yes ,Moving or Traffic Violation ,Rewards
+5/8/8,Gilberton,Gilberton,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Stretch ,Graduation ,Yes ,None ,Individual - Existing ,Yes ,Maintenance ,Invoiced
+10/5/11,Gilberton,Cassandra,Kennywood Park ,Kennywood Park ,Ford Excursion ,Private ,No ,Medium ,Individual - New ,Yes ,Driver Error or Miscalculation ,Check
+5/11/11,East Brady,Big Run,Waldameer and Water World ,Waldameer and Water World ,Min Bus ,Cruise ,Yes ,Low ,Religous - New ,No ,Weather ,Rewards
+4/8/8,Liverpool,Boswell,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Stretch ,Anniversary ,Yes ,Medium ,Corporate - Existing ,No ,Accident ,Invoiced
+8/1/5,Big Run,Boswell,Waldameer and Water World ,Waldameer and Water World ,Hummer Limo ,Anniversary ,No ,None ,School District - New ,No ,Driver Error or Miscalculation ,Rewards
+8/2/2,Boswell,Jefferson,Philadelphia Zoo ,Philadelphia Zoo ,Min Bus ,Corporate ,Yes ,Medium ,Religous - New ,Yes , ,Credit
+9/11/6,Jefferson,Liverpool,Sesame Place ,Sesame Place ,Min Bus ,Graduation ,Yes ,None ,Corporate - Existing ,No ,Accident ,Invoiced
+5/6/12,McVeytown,East Brady,Dorney Park ,Dorney Park ,Min Bus ,Private ,No ,Medium ,School District - New ,Yes , ,Rewards
+9/8/7,Adams,Cassandra,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Green Limo ,Birthday ,Yes ,Medium ,Corporate - New ,No ,Moving or Traffic Violation ,Invoiced
+12/7/9,Cassandra,Yorkana,Dutch Wonderland ,Dutch Wonderland ,School Bus ,Sporting Event ,Yes ,High ,School District - Existing ,No ,Health Related ,Invoiced
+8/10/9,Boswell,McVeytown,lost river caverns ,lost river caverns ,Ford Excursion ,Private ,No ,Medium ,School District - Existing ,Yes ,Health Related ,Check
+9/5/7,McVeytown,Adams,Waldameer and Water World ,Waldameer and Water World ,School Bus ,Travel/Airport ,No ,None ,School District - New ,No ,Personal ,Credit
+8/8/5,Boswell,New Paris,Waldameer and Water World ,Waldameer and Water World ,Ford Excursion ,Anniversary ,Yes ,Medium ,Corporate - Existing ,Yes ,Personal ,Rewards
+12/3/10,New Paris,New Paris,Liberty Bell ,Liberty Bell ,Van ,Birthday ,Yes ,None ,School District - New ,No ,Health Related ,Invoiced
+11/1/12,McVeytown,New Paris,lost river caverns ,lost river caverns ,Green Limo ,Travel/Airport ,Yes ,Low ,School District - New ,Yes ,Accident ,Invoiced
+10/4/11,New Paris,Big Run,Gettysburg ,Gettysburg ,Towne Car ,Sporting Event ,No ,Low ,Corporate - Existing ,No ,Maintenance ,Rewards
+7/12/7,New Paris,Adams,Philadelphia Zoo ,Philadelphia Zoo ,School Bus ,Holiday ,Yes ,High ,School District - Existing ,No ,Accident ,Check
+7/10/8,Yorkana,Big Run,Kennywood Park ,Kennywood Park ,Hummer Limo ,Private ,No ,None ,School District - Existing ,No ,Health Related ,Rewards
+1/8/10,McVeytown,Liverpool,Waldameer and Water World ,Waldameer and Water World ,Mini Van ,Graduation ,Yes ,High ,School District - Existing ,No ,Weather ,Check
+10/7/12,Cassandra,McVeytown,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,School Bus ,Private ,Yes ,High ,Corporate - Existing ,Yes ,Personal ,Credit
+10/5/11,Fairview,Cassandra,Sesame Place ,Sesame Place ,Church Bus ,Tour ,Yes ,Low ,School District - New ,Yes ,Health Related ,Invoiced
+12/12/7,Jefferson,Cassandra,Kennywood Park ,Kennywood Park ,School Bus ,Funeral ,No ,Low ,Individual - Existing ,Yes ,Maintenance ,Personal Credit Card
+9/9/10,New Paris,Liverpool,Waldameer and Water World ,Waldameer and Water World ,Hummer Limo ,Cruise ,No ,Low ,School District - New ,No ,Accident ,Rewards
+5/10/2,Gilberton,Gilberton,Gettysburg ,Gettysburg ,Green Limo ,Travel/Airport ,No ,Low ,School District - New ,No ,Health Related ,Invoiced
+7/4/2,Gilberton,Fairview,Dutch Wonderland ,Dutch Wonderland ,Green Limo ,Corporate ,No ,High ,Religous - Existing ,No , ,Credit
+11/12/1,Gilberton,Gilberton,Kennywood Park ,Kennywood Park ,Green Limo ,Graduation ,Yes ,Low ,Individual - New ,Yes ,Driver Error or Miscalculation ,Rewards
+12/6/1,McVeytown,Fairview,Philadelphia Zoo ,Philadelphia Zoo ,Ford Excursion ,Cruise ,No ,Low ,School District - Existing ,No ,Health Related ,Credit
+4/7/5,Jefferson,Fairview,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,School Bus ,Tour ,Yes ,Medium ,Individual - New ,No ,Maintenance ,Personal Credit Card
+5/4/6,New Paris,Fairview,Gettysburg ,Gettysburg ,Hummer Limo ,Private ,No ,Medium ,School District - New ,Yes ,Maintenance ,Check
+12/9/7,Fairview,Gilberton,Dorney Park ,Dorney Park ,Hummer Limo ,Cruise ,No ,Medium ,Corporate - New ,No ,Accident ,Rewards
+11/3/1,Jefferson,Adams,Dorney Park ,Dorney Park ,Church Bus ,Funeral ,No ,Low ,School District - Existing ,Yes , ,Credit
+7/1/12,Boswell,Boswell,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Hummer Limo ,Corporate ,No ,Medium ,School District - New ,No ,Driver Error or Miscalculation ,Personal Credit Card
+1/7/3,New Paris,New Paris,Kennywood Park ,Kennywood Park ,Hummer Limo ,Cruise ,Yes ,None ,Religous - New ,Yes ,Moving or Traffic Violation ,Invoiced
+10/7/5,Gilberton,Jefferson,Liberty Bell ,Liberty Bell ,Limo Bus ,Travel/Airport ,Yes ,Low ,Individual - New ,No ,Maintenance ,Credit
+5/7/7,Fairview,Gilberton,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Green Limo ,Corporate ,No ,Low ,School District - Existing ,No ,Accident ,Credit
+6/10/2,Liverpool,New Paris,lost river caverns ,lost river caverns ,Hummer Limo ,Private ,No ,Low ,Religous - Existing ,No ,Personal ,Cash
+2/8/11,McVeytown,Cassandra,Dorney Park ,Dorney Park ,Limo Bus ,Cruise ,No ,High ,School District - New ,Yes ,Personal ,Credit
+2/1/8,East Brady,East Brady,Liberty Bell ,Liberty Bell ,Church Bus ,Wedding ,Yes ,None ,School District - Existing ,No ,Health Related ,Rewards
+9/8/7,East Brady,East Brady,Dutch Wonderland ,Dutch Wonderland ,Ford Excursion ,Cruise ,No ,Medium ,Religous - Existing ,No ,Health Related ,Rewards
+10/6/12,New Paris,East Brady,Waldameer and Water World ,Waldameer and Water World ,Stretch ,Holiday ,No ,High ,Religous - Existing ,Yes ,Driver Error or Miscalculation ,Cash
+1/11/8,Jefferson,Boswell,lost river caverns ,lost river caverns ,Ford Excursion ,Graduation ,No ,Low ,School District - Existing ,Yes ,Maintenance ,Invoiced
+4/12/1,New Paris,Gilberton,Liberty Bell ,Liberty Bell ,Limo Bus ,Wedding ,Yes ,None ,School District - New ,No ,Health Related ,Credit
+3/11/5,Boswell,Gilberton,lost river caverns ,lost river caverns ,Van ,Private ,Yes ,High ,Corporate - New ,Yes , ,Personal Credit Card
+3/2/8,Adams,Adams,Liberty Bell ,Liberty Bell ,School Bus ,Corporate ,No ,Medium ,School District - Existing ,Yes ,Maintenance ,Personal Credit Card
+7/5/10,East Brady,Boswell,Dutch Wonderland ,Dutch Wonderland ,Mini Van ,Cruise ,No ,Medium ,Individual - New ,Yes ,Weather ,Personal Credit Card
+3/2/10,East Brady,Big Run,Liberty Bell ,Liberty Bell ,Church Bus ,Birthday ,Yes ,Low ,Corporate - Existing ,No ,Personal ,Invoiced
+6/12/5,Liverpool,New Paris,Gettysburg ,Gettysburg ,Green Limo ,Sporting Event ,No ,None ,School District - New ,No ,Weather ,Credit
+7/12/8,Adams,Yorkana,Sesame Place ,Sesame Place ,Church Bus ,Anniversary ,Yes ,Low ,Religous - New ,Yes , ,Invoiced
+4/4/2,Yorkana,Big Run,Waldameer and Water World ,Waldameer and Water World ,Church Bus ,Travel/Airport ,Yes ,None ,Corporate - New ,Yes ,Moving or Traffic Violation ,Check
+3/9/8,Adams,East Brady,Kennywood Park ,Kennywood Park ,Church Bus ,Funeral ,Yes ,Medium ,Corporate - New ,No ,Driver Error or Miscalculation ,Check
+3/5/7,Gilberton,Adams,Liberty Bell ,Liberty Bell ,Van ,Travel/Airport ,Yes ,High ,School District - Existing ,No ,Health Related ,Credit
+4/5/6,New Paris,Boswell,Gettysburg ,Gettysburg ,Ford Excursion ,Graduation ,Yes ,None ,School District - Existing ,No ,Personal ,Invoiced
+9/4/10,East Brady,Liverpool,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Towne Car ,Anniversary ,No ,Low ,Religous - New ,Yes ,Driver Error or Miscalculation ,Credit
+10/9/5,Yorkana,Adams,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,School Bus ,Corporate ,No ,Low ,School District - Existing ,Yes ,Weather ,Personal Credit Card
+11/3/6,Fairview,McVeytown,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Limo Bus ,Anniversary ,Yes ,Low ,Individual - New ,Yes ,Personal ,Credit
+9/3/10,Fairview,Boswell,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,School Bus ,Funeral ,Yes ,Medium ,Religous - Existing ,No ,Weather ,Personal Credit Card
+8/5/7,Yorkana,Adams,Liberty Bell ,Liberty Bell ,Limo Bus ,Anniversary ,No ,Low ,Individual - Existing ,Yes , ,Cash
+6/2/9,Gilberton,McVeytown,Liberty Bell ,Liberty Bell ,Hummer Limo ,Holiday ,Yes ,Low ,School District - Existing ,No ,Personal ,Check
+9/4/1,Liverpool,Gilberton,Philadelphia Zoo ,Philadelphia Zoo ,Van ,Funeral ,Yes ,Low ,School District - Existing ,Yes ,Health Related ,Credit
+2/10/12,Gilberton,Adams,Gettysburg ,Gettysburg ,Green Limo ,Cruise ,Yes ,Medium ,Individual - Existing ,No ,Driver Error or Miscalculation ,Invoiced
+2/7/5,New Paris,East Brady,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Min Bus ,Private ,No ,Medium ,Corporate - New ,Yes ,Driver Error or Miscalculation ,Personal Credit Card
+10/11/2,Adams,Boswell,Liberty Bell ,Liberty Bell ,Church Bus ,Graduation ,No ,None ,Corporate - Existing ,No ,Personal ,Personal Credit Card
+2/4/10,Jefferson,Big Run,Sesame Place ,Sesame Place ,Ford Excursion ,Wedding ,Yes ,Medium ,Individual - New ,Yes ,Personal ,Cash
+8/1/11,Yorkana,Jefferson,lost river caverns ,lost river caverns ,Church Bus ,Cruise ,No ,Low ,Individual - New ,No ,Maintenance ,Cash
+12/10/11,Fairview,Adams,Philadelphia Zoo ,Philadelphia Zoo ,Min Bus ,Anniversary ,No ,High ,Individual - Existing ,No ,Driver Error or Miscalculation ,Credit
+4/7/9,Big Run,Jefferson,Dutch Wonderland ,Dutch Wonderland ,Van ,Tour ,No ,Low ,Corporate - New ,Yes ,Accident ,Rewards
+11/2/1,Yorkana,Cassandra,lost river caverns ,lost river caverns ,Mini Van ,Private ,Yes ,Low ,School District - Existing ,Yes ,Maintenance ,Cash
+12/10/1,Jefferson,Boswell,Sesame Place ,Sesame Place ,Stretch ,Cruise ,Yes ,None ,Religous - Existing ,No ,Health Related ,Personal Credit Card
+9/12/9,Big Run,East Brady,Gettysburg ,Gettysburg ,Towne Car ,Graduation ,No ,Medium ,Corporate - Existing ,Yes ,Accident ,Check
+5/8/8,Liverpool,Gilberton,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,School Bus ,Cruise ,Yes ,High ,School District - Existing ,No ,Weather ,Cash
+5/11/3,New Paris,Adams,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Hummer Limo ,Anniversary ,Yes ,Medium ,Religous - New ,No ,Maintenance ,Personal Credit Card
+5/7/12,McVeytown,Fairview,Philadelphia Zoo ,Philadelphia Zoo ,School Bus ,Cruise ,No ,None ,Individual - New ,No ,Personal ,Rewards
+3/8/10,Big Run,Yorkana,Waldameer and Water World ,Waldameer and Water World ,Stretch ,Corporate ,No ,Medium ,Religous - New ,No ,Personal ,Cash
+12/3/2,Fairview,Gilberton,Sesame Place ,Sesame Place ,Towne Car ,Wedding ,Yes ,High ,School District - Existing ,No ,Driver Error or Miscalculation ,Rewards
+8/5/9,Gilberton,Jefferson,Philadelphia Zoo ,Philadelphia Zoo ,School Bus ,Cruise ,No ,Low ,Individual - Existing ,Yes ,Moving or Traffic Violation ,Check
+3/12/7,McVeytown,Fairview,lost river caverns ,lost river caverns ,Ford Excursion ,Tour ,No ,None ,Corporate - New ,Yes ,Moving or Traffic Violation ,Rewards
+4/4/6,East Brady,Big Run,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Sedan ,Corporate ,Yes ,Low ,Individual - New ,No ,Moving or Traffic Violation ,Credit
+12/11/2,Gilberton,Jefferson,Philadelphia Zoo ,Philadelphia Zoo ,Green Limo ,Travel/Airport ,No ,High ,Religous - New ,Yes ,Moving or Traffic Violation ,Credit
+11/4/5,Big Run,McVeytown,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Hummer Limo ,Private ,Yes ,None ,Corporate - New ,No ,Personal ,Rewards
+5/1/7,Adams,Adams,Dorney Park ,Dorney Park ,Ford Excursion ,Tour ,Yes ,High ,School District - New ,No ,Driver Error or Miscalculation ,Personal Credit Card
+9/5/11,Fairview,Big Run,Dorney Park ,Dorney Park ,Min Bus ,Holiday ,No ,High ,Corporate - New ,No ,Health Related ,Rewards
+12/2/6,Cassandra,East Brady,Kennywood Park ,Kennywood Park ,Hummer Limo ,Funeral ,No ,None ,School District - New ,No ,Accident ,Check
+3/4/4,Gilberton,McVeytown,Liberty Bell ,Liberty Bell ,Towne Car ,Private ,Yes ,High ,Religous - New ,No ,Health Related ,Rewards
+1/11/7,Fairview,Cassandra,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Towne Car ,Sporting Event ,No ,Low ,Individual - Existing ,No , ,Cash
+4/6/1,New Paris,McVeytown,Philadelphia Zoo ,Philadelphia Zoo ,Green Limo ,Graduation ,Yes ,Medium ,Individual - New ,Yes ,Health Related ,Credit
+4/4/3,East Brady,Adams,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Hummer Limo ,Tour ,No ,Low ,School District - New ,Yes ,Health Related ,Invoiced
+4/6/10,McVeytown,McVeytown,Hershey park ,Hershey park ,Ford Excursion ,Sporting Event ,No ,High ,Corporate - New ,No ,Weather ,Rewards
+7/11/5,Big Run,New Paris,Waldameer and Water World ,Waldameer and Water World ,Hummer Limo ,Anniversary ,Yes ,Medium ,Religous - Existing ,No ,Moving or Traffic Violation ,Check
+12/7/12,McVeytown,Boswell,lost river caverns ,lost river caverns ,Towne Car ,Funeral ,Yes ,High ,Religous - Existing ,Yes ,Accident ,Cash
+12/5/10,McVeytown,Jefferson,Liberty Bell ,Liberty Bell ,Limo Bus ,Birthday ,Yes ,High ,School District - New ,No ,Accident ,Rewards
+11/4/12,Gilberton,Yorkana,Hershey park ,Hershey park ,Mini Van ,Funeral ,Yes ,None ,Corporate - New ,No , ,Credit
+5/10/10,New Paris,McVeytown,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Stretch ,Travel/Airport ,No ,Low ,School District - New ,No ,Health Related ,Personal Credit Card
+12/12/10,East Brady,Jefferson,Hershey park ,Hershey park ,Min Bus ,Tour ,No ,Medium ,School District - Existing ,No ,Weather ,Invoiced
+12/9/12,East Brady,Gilberton,Liberty Bell ,Liberty Bell ,Sedan ,Graduation ,Yes ,None ,School District - New ,Yes , ,Cash
+5/6/3,Liverpool,Adams,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Limo Bus ,Travel/Airport ,No ,None ,School District - Existing ,Yes ,Driver Error or Miscalculation ,Check
+1/11/12,East Brady,New Paris,Gettysburg ,Gettysburg ,School Bus ,Holiday ,Yes ,High ,School District - Existing ,Yes ,Health Related ,Personal Credit Card
+10/6/5,McVeytown,McVeytown,Dorney Park ,Dorney Park ,Limo Bus ,Travel/Airport ,Yes ,High ,Religous - Existing ,Yes ,Moving or Traffic Violation ,Invoiced
+3/11/11,Big Run,Cassandra,Waldameer and Water World ,Waldameer and Water World ,Van ,Cruise ,No ,Medium ,School District - Existing ,No ,Maintenance ,Cash
+11/9/4,Adams,Jefferson,Kennywood Park ,Kennywood Park ,Hummer Limo ,Tour ,No ,Low ,Religous - Existing ,Yes ,Moving or Traffic Violation ,Credit
+3/3/7,Yorkana,Boswell,Dorney Park ,Dorney Park ,Limo Bus ,Private ,Yes ,None ,School District - New ,No ,Personal ,Cash
+9/9/1,East Brady,Jefferson,Kennywood Park ,Kennywood Park ,Hummer Limo ,Funeral ,No ,Low ,Individual - Existing ,Yes , ,Cash
+1/3/3,Yorkana,Gilberton,Gettysburg ,Gettysburg ,Limo Bus ,Travel/Airport ,Yes ,Low ,Corporate - New ,No ,Health Related ,Personal Credit Card
+1/3/5,Gilberton,McVeytown,Gettysburg ,Gettysburg ,Van ,Graduation ,No ,None ,School District - New ,Yes ,Personal ,Check
+12/9/4,Boswell,East Brady,Sesame Place ,Sesame Place ,Church Bus ,Cruise ,No ,High ,Individual - New ,Yes ,Maintenance ,Personal Credit Card
+2/1/6,Yorkana,Adams,Dorney Park ,Dorney Park ,Towne Car ,Sporting Event ,No ,Low ,Individual - New ,No , ,Personal Credit Card
+11/1/12,New Paris,Gilberton,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Van ,Anniversary ,Yes ,High ,School District - Existing ,No ,Accident ,Cash
+11/3/11,McVeytown,Fairview,Philadelphia Zoo ,Philadelphia Zoo ,Limo Bus ,Private ,No ,High ,Individual - Existing ,No ,Health Related ,Cash
+11/7/2,Adams,Yorkana,Gettysburg ,Gettysburg ,School Bus ,Private ,No ,Medium ,School District - New ,Yes ,Moving or Traffic Violation ,Personal Credit Card
+5/1/5,Big Run,Fairview,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Mini Van ,Wedding ,Yes ,None ,Individual - New ,No , ,Personal Credit Card
+7/6/6,Fairview,Adams,lost river caverns ,lost river caverns ,Towne Car ,Private ,Yes ,Low ,Corporate - New ,Yes ,Driver Error or Miscalculation ,Rewards
+3/8/9,Adams,Boswell,Kennywood Park ,Kennywood Park ,Sedan ,Cruise ,Yes ,Low ,Individual - Existing ,Yes ,Weather ,Personal Credit Card
+5/6/1,Big Run,Jefferson,Dutch Wonderland ,Dutch Wonderland ,Mini Van ,Holiday ,No ,High ,Religous - New ,No ,Health Related ,Check
+7/11/12,Liverpool,Cassandra,Liberty Bell ,Liberty Bell ,Min Bus ,Cruise ,No ,Medium ,Individual - New ,Yes ,Personal ,Invoiced
+1/8/3,New Paris,New Paris,lost river caverns ,lost river caverns ,Stretch ,Corporate ,Yes ,Low ,School District - New ,Yes , ,Check
+8/6/8,Jefferson,McVeytown,Philadelphia Zoo ,Philadelphia Zoo ,Min Bus ,Birthday ,Yes ,Low ,Corporate - New ,No ,Health Related ,Personal Credit Card
+7/11/6,Adams,Liverpool,Dutch Wonderland ,Dutch Wonderland ,Van ,Sporting Event ,Yes ,None ,Individual - Existing ,Yes ,Moving or Traffic Violation ,Personal Credit Card
+11/3/3,Gilberton,Yorkana,Sesame Place ,Sesame Place ,Hummer Limo ,Corporate ,No ,Low ,Corporate - Existing ,Yes ,Weather ,Cash
+1/5/10,Boswell,Cassandra,Sesame Place ,Sesame Place ,Limo Bus ,Travel/Airport ,Yes ,Medium ,Corporate - New ,Yes , ,Invoiced
+7/5/3,Boswell,McVeytown,Gettysburg ,Gettysburg ,Min Bus ,Sporting Event ,Yes ,Low ,Corporate - Existing ,Yes ,Moving or Traffic Violation ,Invoiced
+10/3/6,Jefferson,Yorkana,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Limo Bus ,Cruise ,No ,None ,Individual - Existing ,Yes ,Maintenance ,Rewards
+11/3/7,East Brady,McVeytown,Liberty Bell ,Liberty Bell ,Ford Excursion ,Birthday ,Yes ,Medium ,Religous - Existing ,Yes , ,Cash
+11/11/10,Fairview,Yorkana,Waldameer and Water World ,Waldameer and Water World ,Stretch ,Anniversary ,Yes ,None ,Individual - Existing ,No ,Driver Error or Miscalculation ,Check
+11/9/9,McVeytown,McVeytown,Kennywood Park ,Kennywood Park ,Min Bus ,Graduation ,Yes ,High ,Corporate - Existing ,Yes ,Personal ,Rewards
+4/2/8,McVeytown,Adams,Liberty Bell ,Liberty Bell ,Church Bus ,Holiday ,No ,High ,School District - New ,No ,Maintenance ,Check
+5/3/2,Liverpool,Yorkana,Sesame Place ,Sesame Place ,Mini Van ,Tour ,Yes ,Low ,Religous - New ,No ,Weather ,Credit
+7/6/4,Big Run,East Brady,Philadelphia Zoo ,Philadelphia Zoo ,Church Bus ,Graduation ,No ,Low ,School District - New ,Yes ,Personal ,Cash
+4/3/6,East Brady,Adams,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Hummer Limo ,Cruise ,Yes ,High ,Religous - Existing ,Yes , ,Rewards
+6/1/10,East Brady,East Brady,Sesame Place ,Sesame Place ,Towne Car ,Graduation ,Yes ,High ,Religous - Existing ,No ,Accident ,Invoiced
+11/12/3,Gilberton,East Brady,lost river caverns ,lost river caverns ,Green Limo ,Wedding ,Yes ,None ,Corporate - Existing ,Yes ,Driver Error or Miscalculation ,Personal Credit Card
+4/7/10,Boswell,Yorkana,Philadelphia Zoo ,Philadelphia Zoo ,Stretch ,Sporting Event ,No ,None ,School District - Existing ,Yes ,Moving or Traffic Violation ,Invoiced
+6/5/5,New Paris,Cassandra,Gettysburg ,Gettysburg ,School Bus ,Sporting Event ,Yes ,High ,Individual - Existing ,Yes ,Weather ,Personal Credit Card
+6/2/5,Adams,Cassandra,Hershey park ,Hershey park ,Ford Excursion ,Sporting Event ,Yes ,Medium ,Individual - Existing ,No ,Moving or Traffic Violation ,Invoiced
+2/5/6,Cassandra,New Paris,Dutch Wonderland ,Dutch Wonderland ,Ford Excursion ,Birthday ,Yes ,Medium ,School District - Existing ,No ,Moving or Traffic Violation ,Rewards
+10/8/11,New Paris,Jefferson,Dutch Wonderland ,Dutch Wonderland ,Sedan ,Holiday ,Yes ,Low ,Corporate - New ,Yes , ,Credit
+11/10/11,McVeytown,Adams,Sesame Place ,Sesame Place ,Van ,Wedding ,Yes ,Low ,Corporate - Existing ,No ,Personal ,Check
+5/2/9,Cassandra,East Brady,Sesame Place ,Sesame Place ,Van ,Cruise ,No ,High ,Religous - New ,Yes ,Accident ,Credit
+3/4/2,McVeytown,Yorkana,Philadelphia Zoo ,Philadelphia Zoo ,School Bus ,Funeral ,No ,High ,Religous - New ,Yes ,Moving or Traffic Violation ,Cash
+11/11/4,Adams,New Paris,Hershey park ,Hershey park ,Mini Van ,Tour ,Yes ,Low ,Corporate - Existing ,Yes , ,Personal Credit Card
+9/6/2,Cassandra,Gilberton,Dutch Wonderland ,Dutch Wonderland ,Sedan ,Birthday ,No ,None ,Religous - New ,No ,Driver Error or Miscalculation ,Invoiced
+11/4/7,Liverpool,Jefferson,Kennywood Park ,Kennywood Park ,Min Bus ,Corporate ,Yes ,None ,School District - Existing ,Yes ,Weather ,Rewards
+12/2/2,Adams,Boswell,Dorney Park ,Dorney Park ,Church Bus ,Tour ,No ,High ,Religous - Existing ,Yes ,Maintenance ,Cash
+10/8/2,Adams,Cassandra,Philadelphia Zoo ,Philadelphia Zoo ,Sedan ,Graduation ,No ,Low ,Religous - New ,Yes ,Moving or Traffic Violation ,Rewards
+12/6/7,Big Run,Cassandra,Hershey park ,Hershey park ,Towne Car ,Private ,No ,Low ,Corporate - Existing ,Yes ,Weather ,Check
+8/9/6,Adams,Liverpool,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Sedan ,Funeral ,Yes ,High ,Religous - Existing ,Yes , ,Check
+8/9/3,Liverpool,Adams,Dorney Park ,Dorney Park ,Min Bus ,Wedding ,Yes ,None ,School District - Existing ,Yes ,Accident ,Check
+1/4/1,Yorkana,Yorkana,Dutch Wonderland ,Dutch Wonderland ,Green Limo ,Corporate ,No ,None ,School District - Existing ,No ,Weather ,Cash
+11/4/10,Jefferson,Big Run,Dutch Wonderland ,Dutch Wonderland ,Mini Van ,Wedding ,Yes ,Medium ,Individual - Existing ,No ,Driver Error or Miscalculation ,Personal Credit Card
+6/12/10,Cassandra,Big Run,Kennywood Park ,Kennywood Park ,Ford Excursion ,Wedding ,Yes ,None ,Religous - New ,No ,Maintenance ,Personal Credit Card
+9/9/4,Adams,Boswell,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Hummer Limo ,Travel/Airport ,No ,None ,School District - Existing ,No ,Personal ,Credit
+5/11/5,East Brady,Big Run,lost river caverns ,lost river caverns ,Towne Car ,Sporting Event ,Yes ,None ,Religous - New ,Yes ,Weather ,Credit
+1/7/4,Yorkana,Cassandra,Kennywood Park ,Kennywood Park ,Towne Car ,Travel/Airport ,No ,Low ,Corporate - Existing ,Yes , ,Rewards
+9/4/4,Gilberton,Yorkana,Sesame Place ,Sesame Place ,Mini Van ,Holiday ,No ,Medium ,Corporate - Existing ,No , ,Credit
+2/1/9,Boswell,Cassandra,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Mini Van ,Tour ,No ,Medium ,School District - New ,Yes ,Driver Error or Miscalculation ,Personal Credit Card
+9/2/8,Liverpool,Yorkana,Gettysburg ,Gettysburg ,Min Bus ,Graduation ,No ,Medium ,Individual - Existing ,No ,Personal ,Invoiced
+4/8/11,McVeytown,Jefferson,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Min Bus ,Travel/Airport ,No ,Low ,Individual - New ,Yes ,Personal ,Credit
+9/2/3,Big Run,Cassandra,Kennywood Park ,Kennywood Park ,School Bus ,Tour ,Yes ,Low ,Corporate - New ,Yes ,Weather ,Invoiced
+5/2/8,Yorkana,Liverpool,Gettysburg ,Gettysburg ,School Bus ,Corporate ,No ,High ,Corporate - New ,No ,Accident ,Cash
+2/2/11,East Brady,Fairview,Kennywood Park ,Kennywood Park ,Sedan ,Corporate ,No ,High ,Religous - New ,No , ,Personal Credit Card
+9/2/12,Gilberton,Big Run,lost river caverns ,lost river caverns ,Sedan ,Private ,Yes ,None ,Individual - New ,Yes ,Moving or Traffic Violation ,Credit
+9/9/9,Jefferson,Jefferson,Philadelphia Zoo ,Philadelphia Zoo ,Green Limo ,Wedding ,No ,None ,Religous - Existing ,No ,Moving or Traffic Violation ,Rewards
+4/4/7,East Brady,Fairview,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Van ,Anniversary ,No ,Low ,Corporate - Existing ,No , ,Personal Credit Card
+2/5/7,New Paris,New Paris,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Van ,Funeral ,No ,Medium ,Religous - Existing ,No ,Maintenance ,Cash
+7/11/1,Gilberton,Jefferson,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Towne Car ,Cruise ,No ,None ,School District - New ,Yes ,Weather ,Cash
+11/12/8,Big Run,Boswell,Kennywood Park ,Kennywood Park ,Ford Excursion ,Graduation ,No ,None ,Religous - Existing ,No , ,Cash
+6/6/2,Big Run,East Brady,lost river caverns ,lost river caverns ,Sedan ,Travel/Airport ,No ,None ,School District - New ,No ,Accident ,Rewards
+1/4/9,Cassandra,Gilberton,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Green Limo ,Birthday ,Yes ,High ,Individual - Existing ,Yes ,Driver Error or Miscalculation ,Check
+6/11/12,Adams,Gilberton,Philadelphia Zoo ,Philadelphia Zoo ,Towne Car ,Birthday ,No ,Low ,Individual - Existing ,Yes ,Moving or Traffic Violation ,Rewards
+8/3/6,Yorkana,Boswell,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Green Limo ,Corporate ,No ,None ,Religous - Existing ,Yes ,Accident ,Check
+6/7/2,Liverpool,Gilberton,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Van ,Anniversary ,Yes ,None ,Individual - New ,Yes ,Personal ,Rewards
+11/7/9,East Brady,Fairview,Kennywood Park ,Kennywood Park ,Sedan ,Private ,No ,Low ,Religous - Existing ,No ,Maintenance ,Invoiced
+9/1/12,Cassandra,Jefferson,Dutch Wonderland ,Dutch Wonderland ,Mini Van ,Funeral ,Yes ,None ,Religous - New ,Yes ,Personal ,Personal Credit Card
+7/9/2,Big Run,New Paris,Sesame Place ,Sesame Place ,Towne Car ,Anniversary ,Yes ,Medium ,School District - Existing ,Yes ,Personal ,Check
+1/10/5,McVeytown,New Paris,Sesame Place ,Sesame Place ,Sedan ,Cruise ,Yes ,None ,Corporate - New ,Yes ,Maintenance ,Rewards
+4/2/6,Adams,Cassandra,Philadelphia Zoo ,Philadelphia Zoo ,Sedan ,Sporting Event ,Yes ,Low ,Religous - New ,Yes ,Weather ,Credit
+1/4/6,New Paris,East Brady,Dutch Wonderland ,Dutch Wonderland ,Green Limo ,Holiday ,No ,High ,Individual - New ,No ,Maintenance ,Rewards
+2/12/12,Gilberton,Liverpool,Gettysburg ,Gettysburg ,Stretch ,Cruise ,No ,Medium ,Individual - New ,No ,Accident ,Cash
+9/2/5,Liverpool,Liverpool,Liberty Bell ,Liberty Bell ,Sedan ,Wedding ,No ,None ,School District - New ,No , ,Cash
+1/1/3,McVeytown,Fairview,Hershey park ,Hershey park ,Towne Car ,Cruise ,Yes ,High ,Individual - New ,Yes ,Personal ,Personal Credit Card
+7/1/4,McVeytown,Gilberton,Hershey park ,Hershey park ,Green Limo ,Funeral ,Yes ,Medium ,Religous - New ,Yes ,Moving or Traffic Violation ,Check
+9/6/6,Fairview,New Paris,Dutch Wonderland ,Dutch Wonderland ,Ford Excursion ,Sporting Event ,Yes ,Low ,School District - New ,No , ,Check
+6/5/2,East Brady,Adams,Waldameer and Water World ,Waldameer and Water World ,School Bus ,Tour ,Yes ,High ,Religous - Existing ,Yes ,Moving or Traffic Violation ,Rewards
+2/7/3,Boswell,Big Run,Dorney Park ,Dorney Park ,Towne Car ,Travel/Airport ,No ,Medium ,Corporate - New ,Yes , ,Credit
+5/11/8,Adams,East Brady,Hershey park ,Hershey park ,Green Limo ,Private ,Yes ,Low ,Corporate - New ,No ,Moving or Traffic Violation ,Cash
+5/8/6,New Paris,Fairview,Liberty Bell ,Liberty Bell ,Van ,Private ,Yes ,Low ,Individual - Existing ,Yes ,Accident ,Check
+11/9/6,East Brady,Gilberton,Dorney Park ,Dorney Park ,School Bus ,Funeral ,Yes ,Medium ,Individual - New ,Yes ,Maintenance ,Invoiced
+7/11/7,Fairview,Adams,Sesame Place ,Sesame Place ,Min Bus ,Travel/Airport ,Yes ,None ,School District - Existing ,No ,Moving or Traffic Violation ,Personal Credit Card
+1/1/1,Cassandra,Gilberton,Sesame Place ,Sesame Place ,Church Bus ,Sporting Event ,No ,None ,Religous - New ,No ,Health Related ,Check
+2/3/1,Fairview,Cassandra,Dutch Wonderland ,Dutch Wonderland ,Ford Excursion ,Cruise ,No ,None ,Corporate - Existing ,Yes , ,Check
+2/7/7,Big Run,Cassandra,Gettysburg ,Gettysburg ,Towne Car ,Graduation ,No ,None ,Religous - New ,No ,Driver Error or Miscalculation ,Personal Credit Card
+9/9/1,McVeytown,Gilberton,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Mini Van ,Wedding ,Yes ,High ,Corporate - Existing ,No ,Moving or Traffic Violation ,Check
+12/7/9,Big Run,East Brady,Philadelphia Zoo ,Philadelphia Zoo ,Green Limo ,Funeral ,Yes ,High ,Corporate - New ,Yes ,Weather ,Personal Credit Card
+8/5/9,Jefferson,Boswell,lost river caverns ,lost river caverns ,Hummer Limo ,Cruise ,No ,High ,Religous - New ,Yes ,Weather ,Rewards
+5/3/7,Big Run,Yorkana,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,School Bus ,Private ,No ,Medium ,Individual - New ,No ,Weather ,Check
+3/12/9,McVeytown,Yorkana,Dutch Wonderland ,Dutch Wonderland ,Sedan ,Anniversary ,No ,High ,School District - New ,No , ,Rewards
+7/5/6,Adams,Gilberton,Sesame Place ,Sesame Place ,Towne Car ,Wedding ,No ,None ,Individual - Existing ,Yes ,Accident ,Cash
+10/3/5,Liverpool,Yorkana,Liberty Bell ,Liberty Bell ,Church Bus ,Holiday ,Yes ,Low ,School District - Existing ,No ,Accident ,Invoiced
+2/2/9,New Paris,Boswell,Waldameer and Water World ,Waldameer and Water World ,Sedan ,Corporate ,No ,Medium ,Religous - New ,Yes ,Personal ,Credit
+2/3/8,East Brady,East Brady,Liberty Bell ,Liberty Bell ,School Bus ,Wedding ,Yes ,None ,Corporate - Existing ,No ,Driver Error or Miscalculation ,Cash
+12/12/6,Cassandra,New Paris,Dorney Park ,Dorney Park ,School Bus ,Sporting Event ,Yes ,High ,Corporate - Existing ,No ,Health Related ,Check
+2/7/6,Gilberton,Gilberton,Sesame Place ,Sesame Place ,Min Bus ,Anniversary ,No ,High ,School District - Existing ,Yes ,Weather ,Personal Credit Card
+8/2/3,East Brady,McVeytown,Kennywood Park ,Kennywood Park ,Towne Car ,Corporate ,No ,Low ,School District - Existing ,No ,Moving or Traffic Violation ,Invoiced
+11/11/1,East Brady,New Paris,Gettysburg ,Gettysburg ,Stretch ,Wedding ,No ,None ,Corporate - Existing ,No , ,Credit
+8/11/10,East Brady,East Brady,Gettysburg ,Gettysburg ,Towne Car ,Graduation ,Yes ,Medium ,Corporate - New ,No ,Personal ,Check
+9/5/6,Gilberton,McVeytown,Liberty Bell ,Liberty Bell ,Towne Car ,Funeral ,Yes ,None ,School District - New ,No , ,Invoiced
+4/10/2,East Brady,Yorkana,Hershey park ,Hershey park ,Min Bus ,Wedding ,Yes ,None ,Religous - New ,Yes ,Moving or Traffic Violation ,Cash
+12/11/7,East Brady,Fairview,Sesame Place ,Sesame Place ,Towne Car ,Anniversary ,Yes ,Low ,School District - Existing ,Yes ,Health Related ,Check
+3/2/1,Gilberton,East Brady,Sesame Place ,Sesame Place ,Sedan ,Sporting Event ,Yes ,Medium ,School District - New ,Yes ,Moving or Traffic Violation ,Invoiced
+9/7/12,McVeytown,Boswell,Philadelphia Zoo ,Philadelphia Zoo ,Mini Van ,Cruise ,No ,None ,Religous - Existing ,Yes ,Accident ,Credit
+3/12/4,Jefferson,Liverpool,lost river caverns ,lost river caverns ,School Bus ,Travel/Airport ,No ,High ,Corporate - Existing ,No ,Health Related ,Credit
+5/6/3,McVeytown,Yorkana,Sesame Place ,Sesame Place ,Green Limo ,Cruise ,Yes ,High ,Corporate - New ,No ,Maintenance ,Cash
+9/8/4,Jefferson,Cassandra,Waldameer and Water World ,Waldameer and Water World ,Mini Van ,Wedding ,No ,High ,Individual - Existing ,No ,Moving or Traffic Violation ,Rewards
+9/2/10,Liverpool,Adams,Hershey park ,Hershey park ,Mini Van ,Wedding ,Yes ,None ,Individual - Existing ,No ,Health Related ,Invoiced
+3/3/4,Adams,Boswell,Dorney Park ,Dorney Park ,Van ,Private ,Yes ,Low ,Corporate - Existing ,No ,Health Related ,Invoiced
+4/10/7,McVeytown,Liverpool,lost river caverns ,lost river caverns ,Stretch ,Travel/Airport ,No ,Low ,Individual - New ,No ,Maintenance ,Cash
+10/1/5,Jefferson,Liverpool,Waldameer and Water World ,Waldameer and Water World ,Mini Van ,Travel/Airport ,Yes ,None ,Religous - Existing ,No ,Weather ,Rewards
+2/2/11,New Paris,Gilberton,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Cruise ,Yes ,High ,Individual - Existing ,No ,Personal ,Rewards
+11/9/6,Jefferson,Gilberton,Philadelphia Zoo ,Philadelphia Zoo ,Mini Van ,Cruise ,Yes ,None ,Individual - New ,No ,Accident ,Invoiced
+8/12/8,Adams,Liverpool,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Anniversary ,No ,Low ,School District - Existing ,No ,Personal ,Personal Credit Card
+2/7/6,Fairview,McVeytown,Dorney Park ,Dorney Park ,Church Bus ,Travel/Airport ,Yes ,Medium ,Individual - Existing ,Yes ,Driver Error or Miscalculation ,Cash
+2/2/1,East Brady,Cassandra,Kennywood Park ,Kennywood Park ,Stretch ,Sporting Event ,No ,Low ,Individual - Existing ,Yes ,Health Related ,Invoiced
+9/12/11,Fairview,Jefferson,Dutch Wonderland ,Dutch Wonderland ,Mini Van ,Anniversary ,Yes ,High ,School District - Existing ,No ,Accident ,Credit
+1/9/10,Big Run,Yorkana,Dutch Wonderland ,Dutch Wonderland ,Sedan ,Travel/Airport ,No ,High ,Corporate - Existing ,Yes ,Maintenance ,Check
+9/11/12,New Paris,Gilberton,lost river caverns ,lost river caverns ,Stretch ,Holiday ,No ,High ,Corporate - Existing ,No ,Personal ,Check
+7/2/8,Cassandra,McVeytown,Philadelphia Zoo ,Philadelphia Zoo ,Min Bus ,Anniversary ,No ,None ,Corporate - Existing ,No ,Weather ,Personal Credit Card
+4/12/3,Boswell,Liverpool,Liberty Bell ,Liberty Bell ,School Bus ,Cruise ,Yes ,High ,Individual - Existing ,No ,Personal ,Credit
+4/9/3,East Brady,Big Run,Hershey park ,Hershey park ,Van ,Graduation ,Yes ,High ,Corporate - Existing ,No ,Health Related ,Invoiced
+5/6/11,New Paris,Yorkana,Gettysburg ,Gettysburg ,Limo Bus ,Anniversary ,Yes ,High ,Corporate - Existing ,Yes ,Health Related ,Credit
+3/12/4,Yorkana,Fairview,Kennywood Park ,Kennywood Park ,School Bus ,Sporting Event ,No ,High ,Religous - New ,Yes , ,Cash
+3/11/1,McVeytown,Boswell,Sesame Place ,Sesame Place ,Church Bus ,Holiday ,Yes ,Low ,Religous - New ,No ,Health Related ,Invoiced
+1/5/10,Jefferson,Cassandra,Kennywood Park ,Kennywood Park ,Towne Car ,Holiday ,Yes ,High ,Religous - Existing ,Yes ,Health Related ,Credit
+8/11/12,McVeytown,Jefferson,Sesame Place ,Sesame Place ,Towne Car ,Tour ,No ,None ,Corporate - Existing ,Yes ,Weather ,Rewards
+4/2/9,Adams,Boswell,Dutch Wonderland ,Dutch Wonderland ,Towne Car ,Funeral ,Yes ,Low ,Religous - Existing ,No ,Weather ,Credit
+2/12/5,McVeytown,McVeytown,Philadelphia Zoo ,Philadelphia Zoo ,Stretch ,Wedding ,Yes ,Medium ,Individual - New ,Yes ,Driver Error or Miscalculation ,Check
+11/12/11,Boswell,Adams,Hershey park ,Hershey park ,Stretch ,Tour ,Yes ,Low ,Religous - Existing ,Yes ,Maintenance ,Check
+11/11/4,Gilberton,McVeytown,lost river caverns ,lost river caverns ,Church Bus ,Private ,Yes ,Medium ,Individual - New ,No ,Moving or Traffic Violation ,Cash
+7/3/5,Yorkana,McVeytown,Kennywood Park ,Kennywood Park ,Min Bus ,Corporate ,Yes ,None ,Religous - New ,No ,Weather ,Cash
+2/12/2,Big Run,Gilberton,Sesame Place ,Sesame Place ,Church Bus ,Travel/Airport ,No ,Medium ,Individual - Existing ,No ,Accident ,Check
+8/7/2,Big Run,New Paris,Gettysburg ,Gettysburg ,Min Bus ,Tour ,No ,Low ,Religous - Existing ,Yes ,Driver Error or Miscalculation ,Cash
+12/3/1,Cassandra,Adams,Philadelphia Zoo ,Philadelphia Zoo ,Towne Car ,Corporate ,Yes ,Medium ,Religous - New ,No ,Maintenance ,Rewards
+5/10/8,Fairview,Boswell,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Limo Bus ,Funeral ,Yes ,Low ,Corporate - New ,Yes ,Health Related ,Rewards
+7/6/10,Gilberton,Gilberton,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Ford Excursion ,Travel/Airport ,Yes ,High ,Religous - Existing ,No ,Health Related ,Rewards
+4/6/1,Gilberton,Cassandra,lost river caverns ,lost river caverns ,Van ,Birthday ,No ,None ,School District - Existing ,Yes ,Driver Error or Miscalculation ,Rewards
+8/4/2,New Paris,Yorkana,Hershey park ,Hershey park ,Van ,Cruise ,Yes ,Medium ,School District - New ,No ,Weather ,Invoiced
+8/3/12,McVeytown,New Paris,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Green Limo ,Corporate ,No ,Low ,Religous - New ,Yes ,Maintenance ,Rewards
+6/12/7,Fairview,Fairview,Dorney Park ,Dorney Park ,Min Bus ,Anniversary ,Yes ,Low ,Corporate - New ,No ,Moving or Traffic Violation ,Check
+2/1/8,Gilberton,East Brady,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,School Bus ,Sporting Event ,Yes ,Low ,Individual - Existing ,Yes ,Health Related ,Check
+2/12/9,New Paris,Cassandra,Hershey park ,Hershey park ,Hummer Limo ,Private ,No ,Low ,Religous - Existing ,No ,Weather ,Personal Credit Card
+1/10/7,New Paris,McVeytown,Kennywood Park ,Kennywood Park ,Ford Excursion ,Travel/Airport ,No ,None ,Corporate - Existing ,No ,Accident ,Personal Credit Card
+11/11/1,Yorkana,Adams,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Limo Bus ,Funeral ,Yes ,Medium ,School District - Existing ,No ,Accident ,Personal Credit Card
+11/11/6,Big Run,Big Run,Gettysburg ,Gettysburg ,Ford Excursion ,Corporate ,Yes ,None ,School District - Existing ,No , ,Check
+11/6/10,Boswell,McVeytown,Hershey park ,Hershey park ,Sedan ,Travel/Airport ,Yes ,High ,School District - Existing ,Yes ,Driver Error or Miscalculation ,Invoiced
+5/11/2,Big Run,New Paris,lost river caverns ,lost river caverns ,Ford Excursion ,Private ,Yes ,High ,School District - New ,Yes ,Accident ,Rewards
+6/2/3,Yorkana,Jefferson,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Limo Bus ,Tour ,No ,High ,School District - Existing ,Yes , ,Invoiced
+5/5/3,Liverpool,Jefferson,Gettysburg ,Gettysburg ,Green Limo ,Tour ,Yes ,Low ,School District - New ,No ,Maintenance ,Personal Credit Card
+9/10/8,Adams,Big Run,Dorney Park ,Dorney Park ,Ford Excursion ,Funeral ,Yes ,Low ,School District - New ,No ,Maintenance ,Credit
+3/7/10,East Brady,Adams,Hershey park ,Hershey park ,Sedan ,Tour ,No ,Low ,Individual - Existing ,No ,Moving or Traffic Violation ,Check
+10/2/2,New Paris,Jefferson,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Limo Bus ,Holiday ,Yes ,None ,School District - Existing ,Yes ,Accident ,Credit
+1/4/8,Yorkana,Big Run,Kennywood Park ,Kennywood Park ,School Bus ,Birthday ,No ,Medium ,Corporate - Existing ,Yes ,Weather ,Rewards
+2/7/8,Liverpool,Cassandra,Liberty Bell ,Liberty Bell ,Green Limo ,Anniversary ,No ,Low ,School District - Existing ,Yes ,Weather ,Credit
+5/8/4,Adams,Big Run,Waldameer and Water World ,Waldameer and Water World ,Min Bus ,Cruise ,No ,High ,Religous - New ,Yes ,Health Related ,Check
+3/8/7,Liverpool,Liverpool,Hershey park ,Hershey park ,Hummer Limo ,Wedding ,Yes ,Low ,Religous - Existing ,Yes ,Accident ,Invoiced
+7/9/5,Jefferson,Liverpool,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Green Limo ,Sporting Event ,Yes ,High ,School District - New ,Yes , ,Check
+7/9/9,Big Run,Yorkana,Dorney Park ,Dorney Park ,Hummer Limo ,Graduation ,Yes ,Low ,Individual - New ,Yes ,Personal ,Rewards
+5/12/11,East Brady,Boswell,Dorney Park ,Dorney Park ,Limo Bus ,Birthday ,Yes ,Low ,School District - New ,No ,Maintenance ,Credit
+1/3/7,New Paris,East Brady,Kennywood Park ,Kennywood Park ,Min Bus ,Tour ,No ,Low ,Individual - New ,No ,Driver Error or Miscalculation ,Cash
+6/10/5,McVeytown,Big Run,lost river caverns ,lost river caverns ,Towne Car ,Wedding ,Yes ,Medium ,Religous - New ,No ,Accident ,Invoiced
+12/7/1,Boswell,East Brady,Gettysburg ,Gettysburg ,Stretch ,Anniversary ,No ,Low ,Religous - Existing ,No ,Driver Error or Miscalculation ,Cash
+8/4/9,Fairview,Cassandra,Dutch Wonderland ,Dutch Wonderland ,Limo Bus ,Corporate ,Yes ,None ,Religous - Existing ,No ,Maintenance ,Rewards
+1/10/6,Cassandra,Jefferson,lost river caverns ,lost river caverns ,Hummer Limo ,Wedding ,No ,Medium ,School District - Existing ,Yes ,Accident ,Invoiced
+5/11/1,Boswell,Cassandra,Hershey park ,Hershey park ,Limo Bus ,Travel/Airport ,Yes ,High ,School District - Existing ,No ,Accident ,Invoiced
+1/12/1,Cassandra,Adams,Dorney Park ,Dorney Park ,Min Bus ,Anniversary ,Yes ,Low ,School District - Existing ,Yes ,Accident ,Invoiced
+6/10/8,Yorkana,New Paris,Gettysburg ,Gettysburg ,Hummer Limo ,Private ,No ,Low ,Corporate - Existing ,No ,Personal ,Cash
+9/12/3,Adams,Boswell,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Corporate ,Yes ,Low ,School District - Existing ,No ,Accident ,Cash
+1/6/2,Adams,Boswell,lost river caverns ,lost river caverns ,Sedan ,Corporate ,No ,None ,Corporate - Existing ,No , ,Personal Credit Card
+9/5/7,Big Run,Jefferson,Sesame Place ,Sesame Place ,Mini Van ,Sporting Event ,No ,Medium ,Corporate - New ,No ,Health Related ,Check
+5/3/10,Yorkana,New Paris,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Min Bus ,Anniversary ,No ,Low ,Corporate - New ,No ,Health Related ,Cash
+4/5/1,Big Run,New Paris,Gettysburg ,Gettysburg ,Green Limo ,Funeral ,Yes ,Medium ,Corporate - Existing ,Yes ,Accident ,Rewards
+5/9/8,McVeytown,East Brady,Dorney Park ,Dorney Park ,Min Bus ,Tour ,Yes ,None ,School District - New ,Yes ,Weather ,Check
+1/6/5,East Brady,Liverpool,Hershey park ,Hershey park ,Church Bus ,Funeral ,No ,High ,Corporate - Existing ,No ,Weather ,Invoiced
+8/5/12,Fairview,Adams,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Holiday ,No ,High ,Corporate - New ,No ,Accident ,Cash
+4/7/9,Gilberton,Big Run,Hershey park ,Hershey park ,Hummer Limo ,Private ,No ,Low ,Corporate - Existing ,No , ,Invoiced
+8/1/1,Jefferson,New Paris,Sesame Place ,Sesame Place ,Green Limo ,Holiday ,No ,Low ,Individual - New ,No ,Personal ,Invoiced
+2/8/3,Fairview,Big Run,Kennywood Park ,Kennywood Park ,Green Limo ,Corporate ,No ,Low ,Religous - New ,Yes ,Driver Error or Miscalculation ,Credit
+10/5/12,New Paris,Yorkana,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Limo Bus ,Birthday ,Yes ,High ,Corporate - Existing ,Yes ,Driver Error or Miscalculation ,Invoiced
+6/7/9,Yorkana,McVeytown,Sesame Place ,Sesame Place ,Limo Bus ,Cruise ,No ,Low ,Individual - New ,No ,Personal ,Credit
+8/7/2,Jefferson,Adams,Sesame Place ,Sesame Place ,Towne Car ,Anniversary ,No ,None ,Individual - New ,No ,Accident ,Check
+7/5/5,New Paris,East Brady,lost river caverns ,lost river caverns ,Green Limo ,Corporate ,Yes ,Medium ,Individual - Existing ,No ,Personal ,Rewards
+3/9/7,Liverpool,Liverpool,Waldameer and Water World ,Waldameer and Water World ,School Bus ,Private ,Yes ,High ,Corporate - New ,Yes ,Moving or Traffic Violation ,Check
+1/10/4,Adams,Boswell,Dorney Park ,Dorney Park ,Stretch ,Sporting Event ,No ,None ,Religous - New ,Yes ,Weather ,Check
+11/8/6,Adams,Boswell,Liberty Bell ,Liberty Bell ,Stretch ,Graduation ,Yes ,High ,Religous - Existing ,Yes ,Personal ,Invoiced
+7/5/2,New Paris,Fairview,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Towne Car ,Birthday ,Yes ,None ,Individual - Existing ,No ,Health Related ,Rewards
+4/2/3,Fairview,Cassandra,Liberty Bell ,Liberty Bell ,Green Limo ,Sporting Event ,No ,Low ,Religous - New ,Yes ,Personal ,Invoiced
+11/12/5,New Paris,Cassandra,Sesame Place ,Sesame Place ,Sedan ,Cruise ,Yes ,Low ,School District - Existing ,No ,Driver Error or Miscalculation ,Invoiced
+7/9/12,East Brady,Cassandra,Hershey park ,Hershey park ,Stretch ,Travel/Airport ,No ,None ,School District - Existing ,Yes ,Moving or Traffic Violation ,Personal Credit Card
+6/12/2,Fairview,McVeytown,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Ford Excursion ,Wedding ,Yes ,Medium ,Religous - Existing ,Yes ,Accident ,Invoiced
+8/11/2,Cassandra,Cassandra,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Mini Van ,Cruise ,Yes ,None ,Individual - Existing ,No ,Maintenance ,Personal Credit Card
+10/4/12,Jefferson,Fairview,Sesame Place ,Sesame Place ,Sedan ,Birthday ,No ,High ,Religous - Existing ,No ,Personal ,Rewards
+5/12/11,Cassandra,Jefferson,Kennywood Park ,Kennywood Park ,Min Bus ,Corporate ,Yes ,Low ,School District - Existing ,No ,Personal ,Credit
+11/1/4,Gilberton,McVeytown,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Travel/Airport ,Yes ,None ,Individual - Existing ,No ,Personal ,Check
+3/11/11,New Paris,Big Run,Dorney Park ,Dorney Park ,School Bus ,Anniversary ,Yes ,None ,Corporate - New ,Yes ,Personal ,Check
+12/6/6,Yorkana,New Paris,Dorney Park ,Dorney Park ,Limo Bus ,Tour ,No ,High ,Religous - Existing ,Yes ,Maintenance ,Personal Credit Card
+2/4/12,Yorkana,McVeytown,Hershey park ,Hershey park ,Church Bus ,Cruise ,No ,Medium ,Individual - Existing ,Yes ,Maintenance ,Personal Credit Card
+6/5/3,McVeytown,East Brady,Kennywood Park ,Kennywood Park ,Green Limo ,Tour ,No ,None ,Corporate - Existing ,Yes ,Accident ,Check
+7/9/6,Boswell,Boswell,Sesame Place ,Sesame Place ,Ford Excursion ,Private ,Yes ,High ,Corporate - New ,Yes , ,Credit
+10/11/11,Gilberton,Cassandra,Dutch Wonderland ,Dutch Wonderland ,Green Limo ,Holiday ,Yes ,Medium ,Individual - Existing ,No ,Weather ,Credit
+5/4/3,Liverpool,McVeytown,Kennywood Park ,Kennywood Park ,Church Bus ,Wedding ,Yes ,None ,Individual - Existing ,Yes ,Driver Error or Miscalculation ,Credit
+7/7/9,New Paris,McVeytown,Gettysburg ,Gettysburg ,Stretch ,Sporting Event ,No ,Medium ,Religous - New ,No ,Driver Error or Miscalculation ,Invoiced
+6/9/3,East Brady,Fairview,Liberty Bell ,Liberty Bell ,Green Limo ,Funeral ,Yes ,Medium ,School District - New ,No ,Moving or Traffic Violation ,Credit
+5/11/7,New Paris,Big Run,Liberty Bell ,Liberty Bell ,Van ,Holiday ,Yes ,Low ,School District - New ,No ,Maintenance ,Credit
+3/6/12,East Brady,Gilberton,Hershey park ,Hershey park ,Van ,Sporting Event ,Yes ,High ,School District - New ,No ,Weather ,Personal Credit Card
+11/6/10,Cassandra,Adams,lost river caverns ,lost river caverns ,Towne Car ,Sporting Event ,No ,None ,School District - New ,Yes ,Maintenance ,Credit
+11/7/7,Big Run,New Paris,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Holiday ,Yes ,High ,Religous - New ,No ,Health Related ,Invoiced
+6/7/5,Liverpool,Gilberton,Gettysburg ,Gettysburg ,Green Limo ,Wedding ,Yes ,None ,Corporate - Existing ,No ,Accident ,Cash
+12/7/6,New Paris,Big Run,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Sedan ,Holiday ,Yes ,Low ,Individual - Existing ,Yes ,Maintenance ,Cash
+9/2/5,Boswell,New Paris,Kennywood Park ,Kennywood Park ,Green Limo ,Funeral ,Yes ,Low ,School District - New ,No ,Driver Error or Miscalculation ,Cash
+10/12/6,Big Run,Yorkana,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,School Bus ,Sporting Event ,Yes ,High ,Individual - Existing ,Yes ,Moving or Traffic Violation ,Credit
+3/2/1,McVeytown,Big Run,Dutch Wonderland ,Dutch Wonderland ,Min Bus ,Sporting Event ,No ,Low ,Corporate - New ,No , ,Credit
+8/11/7,Big Run,Jefferson,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Church Bus ,Graduation ,No ,None ,Corporate - Existing ,Yes , ,Invoiced
+1/6/6,New Paris,East Brady,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Van ,Sporting Event ,Yes ,None ,School District - New ,No ,Accident ,Invoiced
+1/3/5,Big Run,Big Run,Sesame Place ,Sesame Place ,Church Bus ,Corporate ,No ,None ,Corporate - New ,Yes ,Driver Error or Miscalculation ,Invoiced
+9/1/3,Jefferson,Cassandra,Waldameer and Water World ,Waldameer and Water World ,School Bus ,Cruise ,Yes ,Low ,Religous - New ,Yes ,Personal ,Invoiced
+4/2/12,McVeytown,Adams,Kennywood Park ,Kennywood Park ,Church Bus ,Sporting Event ,Yes ,Medium ,School District - Existing ,No ,Driver Error or Miscalculation ,Check
+4/3/12,Liverpool,Liverpool,Dorney Park ,Dorney Park ,Green Limo ,Travel/Airport ,Yes ,None ,Religous - New ,No , ,Credit
+6/8/9,Fairview,Gilberton,Sesame Place ,Sesame Place ,Green Limo ,Anniversary ,Yes ,Medium ,School District - Existing ,Yes ,Health Related ,Rewards
+7/5/9,Liverpool,Fairview,Sesame Place ,Sesame Place ,Hummer Limo ,Corporate ,Yes ,None ,Religous - New ,Yes ,Moving or Traffic Violation ,Credit
+8/3/10,Liverpool,Liverpool,Waldameer and Water World ,Waldameer and Water World ,Sedan ,Graduation ,Yes ,High ,School District - New ,Yes ,Accident ,Cash
+5/5/7,McVeytown,Yorkana,lost river caverns ,lost river caverns ,Van ,Graduation ,No ,High ,Corporate - Existing ,No ,Weather ,Credit
+10/9/1,East Brady,Cassandra,Sesame Place ,Sesame Place ,Mini Van ,Corporate ,Yes ,High ,School District - New ,Yes ,Accident ,Credit
+2/1/11,Adams,Adams,Hershey park ,Hershey park ,School Bus ,Sporting Event ,No ,Medium ,Individual - Existing ,No ,Personal ,Invoiced
+11/2/10,Fairview,Jefferson,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Van ,Graduation ,No ,None ,School District - New ,Yes ,Health Related ,Invoiced
+3/11/5,Boswell,Liverpool,Philadelphia Zoo ,Philadelphia Zoo ,Green Limo ,Funeral ,No ,High ,Corporate - New ,No ,Weather ,Credit
+12/11/5,Liverpool,Jefferson,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Hummer Limo ,Wedding ,No ,Medium ,Individual - New ,No ,Maintenance ,Rewards
+8/5/10,Big Run,Liverpool,Philadelphia Zoo ,Philadelphia Zoo ,Mini Van ,Sporting Event ,No ,High ,Corporate - Existing ,Yes ,Accident ,Personal Credit Card
+8/11/12,Big Run,Yorkana,Gettysburg ,Gettysburg ,Hummer Limo ,Birthday ,No ,High ,Corporate - Existing ,Yes ,Accident ,Rewards
+5/1/2,East Brady,Big Run,Philadelphia Zoo ,Philadelphia Zoo ,Stretch ,Cruise ,Yes ,Medium ,School District - New ,No ,Health Related ,Credit
+10/9/11,Yorkana,Liverpool,Gettysburg ,Gettysburg ,Hummer Limo ,Funeral ,No ,Medium ,School District - Existing ,Yes ,Maintenance ,Invoiced
+10/2/2,Fairview,Adams,Dorney Park ,Dorney Park ,Min Bus ,Corporate ,No ,Low ,School District - Existing ,No ,Health Related ,Credit
+2/9/9,Big Run,East Brady,Kennywood Park ,Kennywood Park ,Ford Excursion ,Wedding ,No ,None ,Religous - New ,Yes ,Health Related ,Rewards
+7/5/2,Boswell,Big Run,lost river caverns ,lost river caverns ,Church Bus ,Birthday ,No ,Medium ,Religous - New ,Yes ,Health Related ,Invoiced
+6/8/8,McVeytown,Liverpool,Sesame Place ,Sesame Place ,Min Bus ,Holiday ,No ,High ,Individual - Existing ,Yes , ,Invoiced
+9/5/3,Fairview,Boswell,Waldameer and Water World ,Waldameer and Water World ,Limo Bus ,Wedding ,Yes ,Medium ,Individual - Existing ,Yes ,Accident ,Rewards
+8/3/2,McVeytown,Cassandra,Dorney Park ,Dorney Park ,Mini Van ,Graduation ,Yes ,Medium ,Corporate - New ,Yes ,Accident ,Rewards
+10/7/9,Cassandra,Adams,Liberty Bell ,Liberty Bell ,Mini Van ,Funeral ,No ,High ,Religous - New ,No ,Personal ,Check
+2/6/11,Boswell,Fairview,lost river caverns ,lost river caverns ,Min Bus ,Anniversary ,Yes ,Medium ,Individual - Existing ,No , ,Invoiced
+8/6/2,Yorkana,East Brady,Kennywood Park ,Kennywood Park ,Sedan ,Travel/Airport ,No ,Medium ,School District - New ,Yes , ,Credit
+2/2/1,Boswell,Gilberton,lost river caverns ,lost river caverns ,Ford Excursion ,Cruise ,Yes ,Low ,School District - New ,No ,Maintenance ,Credit
+3/10/10,Boswell,Adams,Sesame Place ,Sesame Place ,Ford Excursion ,Cruise ,Yes ,None ,School District - New ,No , ,Check
+6/12/8,New Paris,Fairview,Philadelphia Zoo ,Philadelphia Zoo ,Stretch ,Tour ,Yes ,Low ,School District - New ,No ,Moving or Traffic Violation ,Personal Credit Card
+4/2/7,McVeytown,Yorkana,Liberty Bell ,Liberty Bell ,Ford Excursion ,Graduation ,No ,Medium ,School District - New ,No ,Maintenance ,Cash
+11/8/8,Boswell,Jefferson,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Mini Van ,Corporate ,No ,High ,Corporate - Existing ,Yes ,Personal ,Rewards
+5/7/8,Jefferson,Liverpool,Hershey park ,Hershey park ,Van ,Corporate ,No ,High ,Religous - Existing ,No ,Health Related ,Rewards
+6/5/7,New Paris,Liverpool,Hershey park ,Hershey park ,Min Bus ,Graduation ,No ,Low ,Religous - Existing ,No ,Accident ,Invoiced
+10/4/2,New Paris,Big Run,Sesame Place ,Sesame Place ,Ford Excursion ,Wedding ,Yes ,None ,Religous - Existing ,No ,Weather ,Invoiced
+10/6/8,East Brady,Gilberton,Dutch Wonderland ,Dutch Wonderland ,School Bus ,Tour ,No ,Low ,School District - New ,Yes ,Driver Error or Miscalculation ,Invoiced
+6/4/10,New Paris,Jefferson,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Limo Bus ,Tour ,No ,High ,Corporate - Existing ,Yes , ,Check
+10/7/9,McVeytown,Adams,Sesame Place ,Sesame Place ,Van ,Birthday ,No ,Medium ,School District - New ,No ,Moving or Traffic Violation ,Check
+5/3/1,Yorkana,Cassandra,Sesame Place ,Sesame Place ,Min Bus ,Travel/Airport ,Yes ,High ,Religous - New ,No ,Weather ,Credit
+10/8/12,Big Run,East Brady,lost river caverns ,lost river caverns ,Van ,Tour ,Yes ,High ,School District - Existing ,No ,Accident ,Personal Credit Card
+1/12/1,Jefferson,McVeytown,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,School Bus ,Holiday ,Yes ,None ,Religous - Existing ,Yes ,Weather ,Invoiced
+3/6/12,McVeytown,Adams,Sesame Place ,Sesame Place ,Mini Van ,Graduation ,Yes ,None ,Religous - Existing ,No ,Driver Error or Miscalculation ,Credit
+10/4/11,Gilberton,McVeytown,Gettysburg ,Gettysburg ,Sedan ,Birthday ,No ,High ,School District - Existing ,No ,Health Related ,Invoiced
+2/9/6,Fairview,Jefferson,lost river caverns ,lost river caverns ,Min Bus ,Anniversary ,No ,High ,Religous - New ,Yes ,Accident ,Personal Credit Card
+10/1/4,Cassandra,Adams,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Min Bus ,Sporting Event ,No ,High ,Individual - Existing ,Yes ,Moving or Traffic Violation ,Check
+6/10/8,Big Run,Yorkana,Sesame Place ,Sesame Place ,School Bus ,Cruise ,No ,Medium ,Religous - Existing ,Yes ,Driver Error or Miscalculation ,Credit
+8/3/1,Liverpool,Boswell,Philadelphia Zoo ,Philadelphia Zoo ,Mini Van ,Private ,No ,None ,Corporate - Existing ,Yes ,Moving or Traffic Violation ,Check
+10/3/7,Boswell,Cassandra,Dorney Park ,Dorney Park ,Hummer Limo ,Sporting Event ,No ,None ,Individual - New ,Yes , ,Credit
+9/6/2,New Paris,McVeytown,Waldameer and Water World ,Waldameer and Water World ,Towne Car ,Graduation ,No ,None ,Religous - Existing ,No ,Weather ,Cash
+6/3/2,Liverpool,Gilberton,Liberty Bell ,Liberty Bell ,School Bus ,Funeral ,No ,Low ,Religous - Existing ,No ,Weather ,Personal Credit Card
+9/7/1,Jefferson,Adams,Gettysburg ,Gettysburg ,Van ,Funeral ,Yes ,Low ,School District - Existing ,Yes ,Personal ,Rewards
+4/2/12,Yorkana,Gilberton,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Towne Car ,Graduation ,No ,Low ,Corporate - New ,No ,Accident ,Check
+4/8/3,East Brady,New Paris,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Ford Excursion ,Anniversary ,Yes ,Medium ,Corporate - New ,Yes ,Weather ,Rewards
+9/2/10,Big Run,Adams,Philadelphia Zoo ,Philadelphia Zoo ,Min Bus ,Sporting Event ,No ,None ,School District - Existing ,Yes ,Accident ,Personal Credit Card
+4/5/8,Jefferson,Cassandra,Philadelphia Zoo ,Philadelphia Zoo ,Limo Bus ,Corporate ,Yes ,Medium ,School District - Existing ,No ,Weather ,Rewards
+4/1/9,McVeytown,McVeytown,Gettysburg ,Gettysburg ,Towne Car ,Private ,No ,Medium ,Individual - New ,No ,Accident ,Check
+10/6/7,Adams,Jefferson,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Limo Bus ,Private ,Yes ,None ,Corporate - Existing ,No ,Moving or Traffic Violation ,Credit
+3/2/8,Fairview,Adams,Philadelphia Zoo ,Philadelphia Zoo ,Church Bus ,Private ,No ,Medium ,Religous - Existing ,No ,Moving or Traffic Violation ,Rewards
+7/10/4,Adams,Fairview,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Green Limo ,Wedding ,Yes ,None ,School District - New ,No ,Driver Error or Miscalculation ,Cash
+8/10/12,Yorkana,Liverpool,Kennywood Park ,Kennywood Park ,Hummer Limo ,Travel/Airport ,No ,Medium ,School District - Existing ,Yes ,Maintenance ,Credit
+9/4/8,Fairview,McVeytown,Hershey park ,Hershey park ,Mini Van ,Private ,No ,None ,Corporate - New ,No ,Health Related ,Check
+9/7/7,Yorkana,Adams,Kennywood Park ,Kennywood Park ,Stretch ,Anniversary ,No ,High ,Individual - Existing ,No ,Personal ,Personal Credit Card
+8/2/1,Liverpool,Fairview,Hershey park ,Hershey park ,Hummer Limo ,Birthday ,Yes ,Medium ,Religous - Existing ,No ,Maintenance ,Check
+7/2/11,New Paris,East Brady,Kennywood Park ,Kennywood Park ,Ford Excursion ,Funeral ,No ,High ,School District - New ,No ,Accident ,Cash
+3/2/4,Big Run,East Brady,Dorney Park ,Dorney Park ,Towne Car ,Cruise ,Yes ,High ,School District - Existing ,No ,Personal ,Check
+4/7/2,Liverpool,McVeytown,lost river caverns ,lost river caverns ,Ford Excursion ,Funeral ,No ,High ,Individual - New ,Yes ,Accident ,Personal Credit Card
+6/6/10,Gilberton,Boswell,Gettysburg ,Gettysburg ,Min Bus ,Birthday ,No ,High ,Corporate - Existing ,Yes ,Maintenance ,Cash
+12/12/11,Adams,New Paris,Dorney Park ,Dorney Park ,School Bus ,Graduation ,No ,Low ,Religous - New ,No ,Driver Error or Miscalculation ,Rewards
+3/6/7,Fairview,Jefferson,Kennywood Park ,Kennywood Park ,Green Limo ,Funeral ,Yes ,Medium ,Corporate - Existing ,No ,Weather ,Credit
+8/10/3,Fairview,Gilberton,Philadelphia Zoo ,Philadelphia Zoo ,Stretch ,Private ,No ,High ,Religous - New ,Yes ,Personal ,Check
+1/11/8,Liverpool,Boswell,Sesame Place ,Sesame Place ,Stretch ,Funeral ,No ,Medium ,Corporate - Existing ,No ,Maintenance ,Invoiced
+1/9/2,Yorkana,East Brady,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Ford Excursion ,Cruise ,No ,High ,Religous - Existing ,Yes ,Driver Error or Miscalculation ,Invoiced
+2/10/1,Adams,Jefferson,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Green Limo ,Corporate ,Yes ,None ,Religous - New ,No ,Weather ,Invoiced
+2/9/5,Gilberton,New Paris,Gettysburg ,Gettysburg ,Ford Excursion ,Graduation ,Yes ,Low ,Individual - Existing ,No ,Moving or Traffic Violation ,Check
+12/9/1,Jefferson,Cassandra,Dutch Wonderland ,Dutch Wonderland ,School Bus ,Sporting Event ,Yes ,High ,School District - Existing ,Yes ,Moving or Traffic Violation ,Credit
+6/8/5,Big Run,Liverpool,Dutch Wonderland ,Dutch Wonderland ,Stretch ,Wedding ,Yes ,None ,School District - New ,No ,Driver Error or Miscalculation ,Rewards
+9/7/5,McVeytown,Jefferson,Dutch Wonderland ,Dutch Wonderland ,Van ,Tour ,Yes ,Low ,Corporate - Existing ,Yes ,Weather ,Personal Credit Card
+12/4/12,Liverpool,Liverpool,Philadelphia Zoo ,Philadelphia Zoo ,School Bus ,Funeral ,Yes ,None ,School District - New ,No ,Personal ,Rewards
+10/6/5,Fairview,Fairview,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Hummer Limo ,Graduation ,Yes ,Low ,Individual - Existing ,Yes ,Moving or Traffic Violation ,Check
+7/5/4,Liverpool,Cassandra,Kennywood Park ,Kennywood Park ,Stretch ,Wedding ,Yes ,Medium ,Religous - New ,No ,Driver Error or Miscalculation ,Cash
+4/1/4,Cassandra,Gilberton,Waldameer and Water World ,Waldameer and Water World ,Limo Bus ,Cruise ,No ,Medium ,Corporate - Existing ,No ,Moving or Traffic Violation ,Check
+3/8/3,Boswell,Big Run,Dorney Park ,Dorney Park ,Stretch ,Wedding ,No ,Medium ,Individual - Existing ,No ,Health Related ,Check
+6/10/4,Big Run,Gilberton,Dutch Wonderland ,Dutch Wonderland ,Sedan ,Holiday ,Yes ,None ,School District - New ,No ,Weather ,Personal Credit Card
+7/6/2,Cassandra,Big Run,Kennywood Park ,Kennywood Park ,Sedan ,Tour ,Yes ,Medium ,School District - Existing ,Yes ,Moving or Traffic Violation ,Cash
+6/12/12,Yorkana,McVeytown,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Sedan ,Holiday ,No ,None ,Individual - Existing ,Yes ,Health Related ,Personal Credit Card
+3/6/5,Gilberton,New Paris,Gettysburg ,Gettysburg ,Sedan ,Cruise ,No ,None ,Religous - New ,Yes , ,Rewards
+3/6/4,New Paris,Yorkana,Dutch Wonderland ,Dutch Wonderland ,Hummer Limo ,Travel/Airport ,No ,High ,School District - New ,Yes , ,Invoiced
+8/7/12,McVeytown,New Paris,Kennywood Park ,Kennywood Park ,School Bus ,Travel/Airport ,Yes ,High ,Corporate - Existing ,Yes ,Moving or Traffic Violation ,Invoiced
+8/5/8,Gilberton,Fairview,Philadelphia Zoo ,Philadelphia Zoo ,Stretch ,Birthday ,Yes ,High ,Religous - New ,Yes ,Moving or Traffic Violation ,Cash
+10/11/4,Gilberton,Boswell,Waldameer and Water World ,Waldameer and Water World ,Hummer Limo ,Anniversary ,No ,None ,School District - New ,No ,Personal ,Personal Credit Card
+5/6/7,Liverpool,Liverpool,lost river caverns ,lost river caverns ,Mini Van ,Travel/Airport ,No ,Medium ,Corporate - Existing ,No , ,Cash
+7/6/10,Big Run,East Brady,Hershey park ,Hershey park ,Min Bus ,Wedding ,Yes ,High ,Corporate - Existing ,Yes ,Maintenance ,Cash
+11/6/7,Boswell,McVeytown,Liberty Bell ,Liberty Bell ,Ford Excursion ,Birthday ,Yes ,Low ,Religous - Existing ,No , ,Check
+10/1/1,McVeytown,Adams,Hershey park ,Hershey park ,Limo Bus ,Wedding ,Yes ,Medium ,Religous - Existing ,No ,Moving or Traffic Violation ,Invoiced
+2/11/9,East Brady,Yorkana,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Van ,Anniversary ,No ,None ,School District - Existing ,Yes ,Driver Error or Miscalculation ,Personal Credit Card
+6/1/4,Jefferson,Gilberton,Dorney Park ,Dorney Park ,Hummer Limo ,Sporting Event ,Yes ,Medium ,Individual - Existing ,Yes ,Personal ,Cash
+10/7/3,Liverpool,New Paris,Waldameer and Water World ,Waldameer and Water World ,Mini Van ,Corporate ,No ,None ,Corporate - Existing ,Yes ,Personal ,Rewards
+11/4/1,New Paris,Liverpool,Philadelphia Zoo ,Philadelphia Zoo ,School Bus ,Travel/Airport ,No ,High ,Religous - Existing ,No ,Accident ,Cash
+3/6/8,Big Run,McVeytown,Sesame Place ,Sesame Place ,Hummer Limo ,Sporting Event ,Yes ,None ,Religous - New ,No , ,Personal Credit Card
+1/2/10,Big Run,Jefferson,lost river caverns ,lost river caverns ,School Bus ,Birthday ,Yes ,High ,Corporate - New ,No , ,Check
+5/7/9,Cassandra,Fairview,Gettysburg ,Gettysburg ,Van ,Holiday ,Yes ,None ,Individual - Existing ,Yes ,Personal ,Check
+1/9/3,Adams,Jefferson,Philadelphia Zoo ,Philadelphia Zoo ,Ford Excursion ,Wedding ,No ,None ,School District - Existing ,Yes ,Personal ,Check
+1/12/2,East Brady,New Paris,Philadelphia Zoo ,Philadelphia Zoo ,Green Limo ,Travel/Airport ,No ,None ,Individual - New ,No ,Health Related ,Personal Credit Card
+8/7/3,Gilberton,Gilberton,Liberty Bell ,Liberty Bell ,School Bus ,Corporate ,Yes ,Medium ,School District - New ,Yes ,Weather ,Rewards
+12/12/1,Gilberton,McVeytown,Kennywood Park ,Kennywood Park ,Mini Van ,Funeral ,No ,Medium ,Corporate - New ,No ,Health Related ,Rewards
+6/9/8,Big Run,McVeytown,Waldameer and Water World ,Waldameer and Water World ,Green Limo ,Cruise ,No ,Medium ,School District - Existing ,Yes ,Health Related ,Check
+8/6/6,Adams,Adams,Sesame Place ,Sesame Place ,Mini Van ,Corporate ,No ,Low ,School District - Existing ,Yes ,Health Related ,Invoiced
+6/2/8,McVeytown,McVeytown,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Cruise ,Yes ,Low ,Individual - New ,Yes ,Personal ,Rewards
+7/3/10,Yorkana,Gilberton,Gettysburg ,Gettysburg ,Limo Bus ,Corporate ,Yes ,None ,Religous - New ,Yes ,Driver Error or Miscalculation ,Invoiced
+9/11/10,Gilberton,Jefferson,Gettysburg ,Gettysburg ,Mini Van ,Corporate ,No ,None ,Corporate - Existing ,No , ,Check
+4/9/2,Liverpool,Adams,Sesame Place ,Sesame Place ,Mini Van ,Corporate ,No ,High ,School District - New ,Yes ,Accident ,Invoiced
+10/9/6,Big Run,Cassandra,Dutch Wonderland ,Dutch Wonderland ,Min Bus ,Birthday ,No ,Low ,Individual - Existing ,Yes ,Health Related ,Check
+1/12/8,Jefferson,East Brady,lost river caverns ,lost river caverns ,Mini Van ,Wedding ,Yes ,Low ,Individual - Existing ,Yes ,Accident ,Invoiced
+5/7/12,Liverpool,Cassandra,Dutch Wonderland ,Dutch Wonderland ,Towne Car ,Holiday ,No ,Low ,Individual - New ,Yes ,Health Related ,Rewards
+7/10/2,Jefferson,Gilberton,Hershey park ,Hershey park ,School Bus ,Sporting Event ,No ,High ,School District - New ,No ,Moving or Traffic Violation ,Cash
+12/8/9,New Paris,Yorkana,Kennywood Park ,Kennywood Park ,Towne Car ,Tour ,Yes ,Low ,School District - Existing ,Yes ,Health Related ,Rewards
+6/4/12,McVeytown,McVeytown,Dorney Park ,Dorney Park ,Mini Van ,Private ,Yes ,None ,Religous - Existing ,No ,Driver Error or Miscalculation ,Check
+1/2/5,Liverpool,Boswell,lost river caverns ,lost river caverns ,Min Bus ,Wedding ,No ,None ,Individual - Existing ,No ,Accident ,Personal Credit Card
+10/2/6,Big Run,Gilberton,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Ford Excursion ,Holiday ,No ,None ,Religous - New ,No , ,Credit
+9/5/9,Gilberton,Liverpool,lost river caverns ,lost river caverns ,Limo Bus ,Tour ,No ,High ,Religous - Existing ,No , ,Invoiced
+1/12/8,Big Run,New Paris,Kennywood Park ,Kennywood Park ,Stretch ,Holiday ,No ,Medium ,School District - New ,Yes ,Driver Error or Miscalculation ,Invoiced
+10/5/10,Big Run,Gilberton,Hershey park ,Hershey park ,Church Bus ,Graduation ,No ,None ,Corporate - Existing ,Yes ,Driver Error or Miscalculation ,Invoiced
+11/9/10,East Brady,McVeytown,Philadelphia Zoo ,Philadelphia Zoo ,Hummer Limo ,Corporate ,No ,None ,Individual - New ,Yes ,Health Related ,Check
+2/3/11,Adams,Liverpool,Liberty Bell ,Liberty Bell ,Van ,Birthday ,Yes ,High ,School District - Existing ,Yes ,Maintenance ,Check
+12/11/10,Big Run,Yorkana,Liberty Bell ,Liberty Bell ,Stretch ,Birthday ,Yes ,None ,Corporate - New ,Yes ,Personal ,Credit
+2/8/12,Fairview,Gilberton,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Min Bus ,Sporting Event ,Yes ,Low ,Religous - Existing ,No ,Moving or Traffic Violation ,Cash
+11/7/2,McVeytown,Fairview,lost river caverns ,lost river caverns ,Mini Van ,Funeral ,No ,None ,Corporate - New ,No ,Driver Error or Miscalculation ,Personal Credit Card
+1/2/11,Liverpool,Big Run,Dorney Park ,Dorney Park ,Sedan ,Holiday ,Yes ,None ,Religous - New ,Yes ,Accident ,Credit
+8/4/12,Big Run,Fairview,Waldameer and Water World ,Waldameer and Water World ,Hummer Limo ,Birthday ,Yes ,High ,Corporate - New ,No , ,Cash
+1/10/10,Gilberton,East Brady,Dorney Park ,Dorney Park ,Towne Car ,Corporate ,No ,High ,Religous - New ,No ,Moving or Traffic Violation ,Credit
+12/12/12,Cassandra,Boswell,Waldameer and Water World ,Waldameer and Water World ,Van ,Graduation ,No ,High ,Individual - Existing ,Yes ,Driver Error or Miscalculation ,Invoiced
+1/6/11,East Brady,McVeytown,Dutch Wonderland ,Dutch Wonderland ,Min Bus ,Tour ,No ,None ,Corporate - Existing ,No ,Weather ,Personal Credit Card
+7/4/6,Yorkana,Adams,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Church Bus ,Wedding ,No ,None ,Corporate - Existing ,Yes ,Maintenance ,Cash
+2/9/8,Boswell,Big Run,Dutch Wonderland ,Dutch Wonderland ,Van ,Holiday ,No ,None ,Religous - New ,Yes ,Maintenance ,Rewards
+11/3/5,Gilberton,Fairview,Liberty Bell ,Liberty Bell ,Church Bus ,Anniversary ,No ,Low ,Corporate - New ,No ,Weather ,Rewards
+9/8/9,McVeytown,New Paris,lost river caverns ,lost river caverns ,Green Limo ,Birthday ,Yes ,None ,Corporate - Existing ,No ,Maintenance ,Rewards
+8/2/10,Fairview,Liverpool,Liberty Bell ,Liberty Bell ,Hummer Limo ,Sporting Event ,Yes ,Medium ,School District - New ,Yes ,Driver Error or Miscalculation ,Cash
+2/7/3,McVeytown,McVeytown,Liberty Bell ,Liberty Bell ,Mini Van ,Tour ,No ,Medium ,Corporate - Existing ,Yes , ,Personal Credit Card
+9/12/8,Yorkana,Big Run,Dorney Park ,Dorney Park ,Sedan ,Anniversary ,No ,Low ,Religous - Existing ,No ,Accident ,Invoiced
+3/3/11,New Paris,Boswell,Gettysburg ,Gettysburg ,Church Bus ,Funeral ,No ,High ,School District - New ,No ,Personal ,Cash
+6/4/1,Liverpool,McVeytown,Dorney Park ,Dorney Park ,Ford Excursion ,Private ,No ,None ,School District - New ,Yes ,Accident ,Cash
+11/6/7,Boswell,Jefferson,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Green Limo ,Graduation ,Yes ,Medium ,School District - Existing ,Yes ,Health Related ,Check
+9/3/9,Cassandra,Gilberton,Liberty Bell ,Liberty Bell ,Green Limo ,Private ,Yes ,Medium ,Corporate - Existing ,Yes , ,Invoiced
+5/3/6,New Paris,McVeytown,Hershey park ,Hershey park ,Van ,Birthday ,Yes ,Medium ,Religous - New ,No ,Moving or Traffic Violation ,Rewards
+11/9/2,Boswell,Boswell,Kennywood Park ,Kennywood Park ,Ford Excursion ,Cruise ,No ,High ,Corporate - Existing ,No ,Moving or Traffic Violation ,Rewards
+12/8/5,Fairview,Big Run,Hershey park ,Hershey park ,Min Bus ,Corporate ,No ,Low ,School District - Existing ,Yes ,Weather ,Rewards
+9/4/2,Liverpool,Cassandra,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Mini Van ,Holiday ,No ,High ,School District - New ,No ,Accident ,Check
+12/1/11,Boswell,McVeytown,Sesame Place ,Sesame Place ,Towne Car ,Anniversary ,No ,None ,Religous - New ,No ,Maintenance ,Cash
+1/1/3,Boswell,New Paris,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Green Limo ,Graduation ,No ,High ,School District - New ,Yes ,Health Related ,Cash
+1/12/2,Liverpool,Jefferson,Kennywood Park ,Kennywood Park ,Min Bus ,Holiday ,No ,None ,Individual - New ,Yes ,Weather ,Invoiced
+7/5/2,East Brady,Jefferson,Philadelphia Zoo ,Philadelphia Zoo ,Hummer Limo ,Corporate ,Yes ,None ,Religous - Existing ,Yes ,Driver Error or Miscalculation ,Check
+5/4/4,Fairview,Gilberton,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Min Bus ,Travel/Airport ,No ,None ,School District - Existing ,No ,Health Related ,Cash
+8/8/10,Big Run,East Brady,Dutch Wonderland ,Dutch Wonderland ,Van ,Birthday ,Yes ,None ,Corporate - Existing ,No ,Maintenance ,Credit
+4/3/11,East Brady,Jefferson,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Limo Bus ,Corporate ,No ,Medium ,Individual - New ,Yes ,Maintenance ,Rewards
+3/7/7,Gilberton,McVeytown,Dutch Wonderland ,Dutch Wonderland ,Green Limo ,Holiday ,No ,None ,School District - New ,Yes , ,Invoiced
+5/10/8,Cassandra,Liverpool,Philadelphia Zoo ,Philadelphia Zoo ,Green Limo ,Holiday ,No ,None ,School District - Existing ,No , ,Cash
+1/7/5,Yorkana,Gilberton,Liberty Bell ,Liberty Bell ,Min Bus ,Funeral ,No ,None ,School District - Existing ,No ,Driver Error or Miscalculation ,Cash
+9/6/9,Fairview,McVeytown,Waldameer and Water World ,Waldameer and Water World ,Mini Van ,Holiday ,No ,Low ,School District - New ,Yes ,Health Related ,Personal Credit Card
+8/1/7,East Brady,East Brady,Dorney Park ,Dorney Park ,Mini Van ,Private ,No ,Medium ,School District - New ,Yes ,Weather ,Credit
+5/10/5,Cassandra,Liverpool,Philadelphia Zoo ,Philadelphia Zoo ,School Bus ,Anniversary ,Yes ,Medium ,Religous - New ,No ,Weather ,Check
+1/3/9,New Paris,Cassandra,Dutch Wonderland ,Dutch Wonderland ,Church Bus ,Birthday ,Yes ,High ,Religous - New ,No ,Personal ,Cash
+2/11/3,Yorkana,Fairview,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Min Bus ,Corporate ,Yes ,Low ,Individual - New ,Yes ,Accident ,Credit
+1/1/4,Gilberton,McVeytown,Dorney Park ,Dorney Park ,Church Bus ,Private ,No ,High ,Religous - Existing ,Yes ,Accident ,Cash
+7/9/9,Liverpool,Gilberton,Hershey park ,Hershey park ,Ford Excursion ,Holiday ,No ,Medium ,School District - Existing ,Yes ,Moving or Traffic Violation ,Check
+10/6/6,Fairview,McVeytown,Dutch Wonderland ,Dutch Wonderland ,Green Limo ,Private ,No ,None ,Corporate - New ,Yes ,Driver Error or Miscalculation ,Cash
+12/9/1,New Paris,Liverpool,Gettysburg ,Gettysburg ,Sedan ,Birthday ,Yes ,High ,School District - New ,No ,Maintenance ,Personal Credit Card
+4/9/9,Adams,Adams,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Hummer Limo ,Wedding ,Yes ,None ,Individual - Existing ,No ,Personal ,Rewards
+6/12/7,Big Run,Jefferson,Kennywood Park ,Kennywood Park ,Van ,Graduation ,No ,Low ,Religous - New ,No ,Moving or Traffic Violation ,Credit
+7/11/1,East Brady,Liverpool,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Stretch ,Corporate ,Yes ,High ,Individual - New ,Yes ,Maintenance ,Invoiced
+1/10/4,Cassandra,Cassandra,Dorney Park ,Dorney Park ,Van ,Graduation ,No ,Medium ,Individual - Existing ,Yes ,Driver Error or Miscalculation ,Credit
+9/5/6,Yorkana,New Paris,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Church Bus ,Birthday ,No ,None ,School District - Existing ,No ,Driver Error or Miscalculation ,Personal Credit Card
+6/1/3,Liverpool,Big Run,Sesame Place ,Sesame Place ,Towne Car ,Tour ,No ,Low ,Individual - New ,No ,Weather ,Credit
+4/12/12,Fairview,East Brady,Liberty Bell ,Liberty Bell ,Church Bus ,Cruise ,No ,Low ,Religous - Existing ,No ,Health Related ,Check
+2/8/9,Liverpool,Gilberton,lost river caverns ,lost river caverns ,Green Limo ,Graduation ,No ,Medium ,Corporate - New ,Yes ,Driver Error or Miscalculation ,Credit
+10/9/10,Cassandra,Cassandra,lost river caverns ,lost river caverns ,Towne Car ,Funeral ,No ,High ,Corporate - Existing ,Yes ,Maintenance ,Rewards
+10/6/11,Jefferson,East Brady,Hershey park ,Hershey park ,Stretch ,Funeral ,Yes ,High ,School District - New ,Yes ,Weather ,Cash
+11/3/11,McVeytown,Boswell,Kennywood Park ,Kennywood Park ,Green Limo ,Holiday ,Yes ,Medium ,Individual - New ,Yes ,Maintenance ,Personal Credit Card
+5/7/4,McVeytown,Big Run,Dutch Wonderland ,Dutch Wonderland ,Hummer Limo ,Wedding ,No ,Medium ,School District - Existing ,Yes ,Accident ,Invoiced
+10/7/11,Liverpool,Gilberton,Philadelphia Zoo ,Philadelphia Zoo ,Towne Car ,Cruise ,No ,Medium ,Corporate - New ,No ,Moving or Traffic Violation ,Personal Credit Card
+11/2/9,Liverpool,Jefferson,Dutch Wonderland ,Dutch Wonderland ,Van ,Cruise ,No ,Low ,Individual - New ,Yes ,Maintenance ,Check
+9/11/12,Boswell,Cassandra,lost river caverns ,lost river caverns ,Sedan ,Tour ,Yes ,None ,Corporate - Existing ,Yes , ,Cash
+9/7/12,Liverpool,Liverpool,lost river caverns ,lost river caverns ,School Bus ,Birthday ,No ,Low ,Individual - New ,No ,Health Related ,Cash
+3/7/10,Big Run,McVeytown,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Min Bus ,Funeral ,Yes ,Low ,Religous - New ,No ,Driver Error or Miscalculation ,Personal Credit Card
+2/3/4,Yorkana,Jefferson,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,School Bus ,Sporting Event ,No ,None ,Individual - New ,No ,Weather ,Invoiced
+11/9/6,Adams,New Paris,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Ford Excursion ,Birthday ,Yes ,None ,Religous - New ,No ,Personal ,Check
+12/3/6,East Brady,Jefferson,lost river caverns ,lost river caverns ,Min Bus ,Birthday ,Yes ,Medium ,School District - New ,Yes ,Weather ,Cash
+11/10/4,Gilberton,Yorkana,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Van ,Anniversary ,No ,Medium ,Individual - New ,No ,Driver Error or Miscalculation ,Check
+10/4/4,Adams,New Paris,Gettysburg ,Gettysburg ,Towne Car ,Birthday ,No ,Low ,Corporate - New ,Yes ,Maintenance ,Cash
+1/4/2,McVeytown,Yorkana,Hershey park ,Hershey park ,Stretch ,Private ,No ,Low ,Individual - New ,No ,Accident ,Cash
+10/9/5,Big Run,McVeytown,Dutch Wonderland ,Dutch Wonderland ,Stretch ,Holiday ,Yes ,None ,Corporate - New ,Yes ,Weather ,Credit
+2/4/12,New Paris,Yorkana,Hershey park ,Hershey park ,Limo Bus ,Funeral ,Yes ,Medium ,Corporate - Existing ,No , ,Cash
+5/4/3,Big Run,Big Run,lost river caverns ,lost river caverns ,Limo Bus ,Tour ,No ,High ,Religous - New ,No ,Personal ,Cash
+1/1/6,Cassandra,Big Run,Philadelphia Zoo ,Philadelphia Zoo ,Mini Van ,Travel/Airport ,No ,Medium ,Corporate - New ,Yes ,Moving or Traffic Violation ,Credit
+8/7/3,Adams,Fairview,Liberty Bell ,Liberty Bell ,Van ,Funeral ,No ,None ,School District - New ,Yes ,Maintenance ,Personal Credit Card
+12/12/1,Boswell,Liverpool,Philadelphia Zoo ,Philadelphia Zoo ,Limo Bus ,Sporting Event ,Yes ,Medium ,Religous - Existing ,No ,Personal ,Rewards
+2/11/8,Jefferson,Yorkana,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Sporting Event ,Yes ,Medium ,Individual - Existing ,No ,Maintenance ,Personal Credit Card
+12/12/2,Big Run,McVeytown,Dorney Park ,Dorney Park ,Ford Excursion ,Travel/Airport ,No ,None ,Corporate - New ,No ,Maintenance ,Check
+6/8/1,Boswell,East Brady,Gettysburg ,Gettysburg ,Van ,Travel/Airport ,Yes ,Low ,School District - New ,Yes ,Weather ,Invoiced
+11/7/2,New Paris,Adams,Hershey park ,Hershey park ,Green Limo ,Birthday ,No ,Medium ,School District - Existing ,Yes ,Moving or Traffic Violation ,Personal Credit Card
+8/1/12,Fairview,Big Run,Sesame Place ,Sesame Place ,School Bus ,Private ,No ,High ,Corporate - New ,No ,Personal ,Rewards
+11/4/6,Big Run,East Brady,Dorney Park ,Dorney Park ,Min Bus ,Tour ,No ,High ,School District - Existing ,Yes ,Accident ,Personal Credit Card
+1/4/4,East Brady,Liverpool,Dorney Park ,Dorney Park ,Ford Excursion ,Travel/Airport ,No ,None ,Individual - Existing ,Yes ,Health Related ,Credit
+1/11/3,Boswell,Cassandra,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Stretch ,Tour ,Yes ,Medium ,School District - Existing ,No ,Moving or Traffic Violation ,Cash
+3/4/7,Fairview,Big Run,Philadelphia Zoo ,Philadelphia Zoo ,Stretch ,Graduation ,Yes ,High ,Individual - New ,No ,Maintenance ,Invoiced
+7/4/10,Jefferson,Cassandra,Dorney Park ,Dorney Park ,Green Limo ,Funeral ,Yes ,High ,Individual - Existing ,No ,Driver Error or Miscalculation ,Check
+11/12/9,Boswell,Fairview,Waldameer and Water World ,Waldameer and Water World ,School Bus ,Sporting Event ,No ,Low ,Corporate - New ,Yes , ,Rewards
+7/11/7,Liverpool,Jefferson,lost river caverns ,lost river caverns ,Limo Bus ,Graduation ,No ,Low ,Individual - Existing ,No ,Maintenance ,Rewards
+12/9/12,East Brady,Jefferson,lost river caverns ,lost river caverns ,Van ,Graduation ,Yes ,Medium ,Individual - New ,No ,Weather ,Invoiced
+11/6/1,McVeytown,Adams,Hershey park ,Hershey park ,Green Limo ,Cruise ,Yes ,Medium ,Religous - New ,Yes ,Accident ,Personal Credit Card
+8/5/11,East Brady,East Brady,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Mini Van ,Anniversary ,Yes ,Medium ,School District - New ,Yes ,Driver Error or Miscalculation ,Check
+9/4/6,New Paris,Jefferson,Gettysburg ,Gettysburg ,Green Limo ,Graduation ,Yes ,None ,Corporate - New ,Yes , ,Check
+1/1/7,Jefferson,Gilberton,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Hummer Limo ,Wedding ,No ,Medium ,Religous - Existing ,Yes ,Driver Error or Miscalculation ,Check
+4/12/8,Big Run,McVeytown,Liberty Bell ,Liberty Bell ,School Bus ,Corporate ,Yes ,None ,Religous - New ,No ,Accident ,Check
+6/10/2,Adams,Fairview,Hershey park ,Hershey park ,Towne Car ,Wedding ,Yes ,Low ,Individual - New ,No ,Moving or Traffic Violation ,Credit
+6/10/9,Big Run,East Brady,lost river caverns ,lost river caverns ,Stretch ,Travel/Airport ,Yes ,High ,Religous - Existing ,No ,Health Related ,Rewards
+1/10/4,Adams,Liverpool,Dorney Park ,Dorney Park ,Hummer Limo ,Wedding ,No ,Low ,Corporate - Existing ,No ,Personal ,Cash
+12/4/11,Boswell,McVeytown,Kennywood Park ,Kennywood Park ,Towne Car ,Cruise ,Yes ,Low ,School District - New ,Yes ,Accident ,Personal Credit Card
+11/12/7,Boswell,East Brady,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Hummer Limo ,Corporate ,No ,High ,Corporate - New ,Yes ,Accident ,Check
+7/6/10,Boswell,Boswell,Liberty Bell ,Liberty Bell ,Min Bus ,Sporting Event ,Yes ,Medium ,Religous - Existing ,Yes ,Driver Error or Miscalculation ,Cash
+6/4/5,McVeytown,Yorkana,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Min Bus ,Wedding ,No ,High ,Individual - Existing ,No , ,Check
+6/4/9,New Paris,Big Run,Philadelphia Zoo ,Philadelphia Zoo ,Stretch ,Sporting Event ,Yes ,None ,Individual - Existing ,Yes ,Accident ,Cash
+5/7/11,Cassandra,Liverpool,lost river caverns ,lost river caverns ,Sedan ,Private ,No ,None ,Religous - New ,No ,Maintenance ,Invoiced
+12/11/5,Boswell,Cassandra,Dorney Park ,Dorney Park ,Ford Excursion ,Funeral ,Yes ,High ,Individual - Existing ,No ,Driver Error or Miscalculation ,Personal Credit Card
+1/8/5,Cassandra,McVeytown,Waldameer and Water World ,Waldameer and Water World ,Limo Bus ,Corporate ,Yes ,Medium ,Individual - New ,No ,Weather ,Cash
+5/1/9,Liverpool,New Paris,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Ford Excursion ,Anniversary ,No ,Low ,Individual - Existing ,No ,Weather ,Rewards
+7/6/12,McVeytown,Liverpool,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Van ,Cruise ,No ,Medium ,Religous - Existing ,Yes , ,Invoiced
+5/10/1,Yorkana,Jefferson,Philadelphia Zoo ,Philadelphia Zoo ,Sedan ,Corporate ,No ,Low ,Corporate - Existing ,Yes ,Personal ,Invoiced
+6/6/10,Fairview,Yorkana,Dutch Wonderland ,Dutch Wonderland ,Mini Van ,Birthday ,Yes ,High ,Corporate - New ,No ,Driver Error or Miscalculation ,Check
+8/5/3,New Paris,Yorkana,Waldameer and Water World ,Waldameer and Water World ,Ford Excursion ,Travel/Airport ,Yes ,Medium ,Individual - New ,No ,Accident ,Credit
+3/6/6,Liverpool,East Brady,Dutch Wonderland ,Dutch Wonderland ,Ford Excursion ,Funeral ,No ,None ,Individual - New ,No ,Personal ,Credit
+3/12/8,McVeytown,East Brady,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Sedan ,Anniversary ,No ,Low ,School District - Existing ,Yes ,Moving or Traffic Violation ,Cash
+3/11/4,Big Run,Liverpool,Sesame Place ,Sesame Place ,Stretch ,Cruise ,No ,Medium ,Religous - Existing ,Yes ,Health Related ,Cash
+11/2/9,Gilberton,Gilberton,Liberty Bell ,Liberty Bell ,Limo Bus ,Anniversary ,Yes ,Low ,Individual - New ,No ,Moving or Traffic Violation ,Rewards
+11/6/3,Liverpool,Liverpool,Liberty Bell ,Liberty Bell ,Limo Bus ,Cruise ,Yes ,Medium ,Corporate - Existing ,No , ,Check
+9/9/1,East Brady,McVeytown,Dorney Park ,Dorney Park ,Stretch ,Private ,No ,High ,Corporate - Existing ,No ,Driver Error or Miscalculation ,Personal Credit Card
+5/1/7,Adams,Jefferson,Philadelphia Zoo ,Philadelphia Zoo ,Van ,Birthday ,Yes ,Medium ,Corporate - New ,Yes ,Health Related ,Personal Credit Card
+6/5/10,Jefferson,Fairview,lost river caverns ,lost river caverns ,Towne Car ,Birthday ,Yes ,Low ,School District - Existing ,Yes ,Maintenance ,Check
+5/5/10,New Paris,Liverpool,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Min Bus ,Tour ,Yes ,None ,Corporate - New ,No , ,Personal Credit Card
+11/10/11,Gilberton,Yorkana,Philadelphia Zoo ,Philadelphia Zoo ,Mini Van ,Holiday ,No ,None ,Individual - New ,No ,Health Related ,Credit
+3/1/6,Yorkana,Cassandra,Dorney Park ,Dorney Park ,Sedan ,Birthday ,Yes ,High ,Corporate - New ,No ,Accident ,Invoiced
+5/3/4,McVeytown,New Paris,Philadelphia Zoo ,Philadelphia Zoo ,Mini Van ,Tour ,Yes ,High ,Individual - Existing ,Yes ,Moving or Traffic Violation ,Personal Credit Card
+9/4/5,Boswell,Jefferson,Philadelphia Zoo ,Philadelphia Zoo ,School Bus ,Sporting Event ,No ,Low ,Individual - Existing ,Yes ,Health Related ,Personal Credit Card
+6/9/11,Big Run,Big Run,Dorney Park ,Dorney Park ,Mini Van ,Private ,No ,None ,Individual - Existing ,No ,Driver Error or Miscalculation ,Credit
+5/5/3,Big Run,Adams,lost river caverns ,lost river caverns ,Min Bus ,Sporting Event ,No ,High ,Corporate - New ,No ,Weather ,Cash
+11/2/9,Adams,McVeytown,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Towne Car ,Cruise ,No ,Low ,Religous - Existing ,Yes ,Driver Error or Miscalculation ,Rewards
+7/4/5,Fairview,Gilberton,Gettysburg ,Gettysburg ,Mini Van ,Wedding ,No ,None ,Religous - Existing ,No ,Personal ,Personal Credit Card
+4/4/5,Yorkana,Liverpool,Philadelphia Zoo ,Philadelphia Zoo ,Van ,Travel/Airport ,Yes ,Medium ,School District - New ,No ,Health Related ,Credit
+1/8/5,Jefferson,New Paris,Philadelphia Zoo ,Philadelphia Zoo ,Church Bus ,Cruise ,No ,Medium ,School District - Existing ,Yes ,Moving or Traffic Violation ,Check
+7/7/2,Jefferson,New Paris,Dorney Park ,Dorney Park ,Sedan ,Cruise ,Yes ,Medium ,Corporate - Existing ,No ,Accident ,Check
+1/7/11,Yorkana,Boswell,Dutch Wonderland ,Dutch Wonderland ,Stretch ,Birthday ,No ,Low ,Corporate - Existing ,Yes ,Personal ,Invoiced
+5/4/12,East Brady,Cassandra,Dorney Park ,Dorney Park ,Sedan ,Sporting Event ,No ,Medium ,School District - New ,Yes ,Maintenance ,Rewards
+11/10/6,Jefferson,Adams,Philadelphia Zoo ,Philadelphia Zoo ,Limo Bus ,Graduation ,No ,Low ,Religous - New ,No ,Accident ,Invoiced
+2/1/2,Adams,Gilberton,lost river caverns ,lost river caverns ,Stretch ,Holiday ,No ,None ,Religous - Existing ,No ,Health Related ,Personal Credit Card
+3/4/7,New Paris,Boswell,Dutch Wonderland ,Dutch Wonderland ,Ford Excursion ,Anniversary ,No ,Medium ,Religous - Existing ,No ,Personal ,Personal Credit Card
+11/4/7,McVeytown,Boswell,Gettysburg ,Gettysburg ,Hummer Limo ,Corporate ,No ,High ,Individual - New ,No ,Driver Error or Miscalculation ,Credit
+11/3/7,Boswell,Gilberton,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Hummer Limo ,Private ,Yes ,High ,Religous - Existing ,Yes ,Moving or Traffic Violation ,Invoiced
+8/2/4,Liverpool,Cassandra,lost river caverns ,lost river caverns ,Stretch ,Private ,No ,High ,Individual - New ,No ,Accident ,Rewards
+5/6/9,Big Run,McVeytown,Liberty Bell ,Liberty Bell ,Ford Excursion ,Birthday ,No ,Low ,Religous - Existing ,No ,Health Related ,Credit
+4/6/10,Gilberton,Jefferson,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Mini Van ,Funeral ,Yes ,Low ,Corporate - New ,Yes ,Accident ,Cash
+3/4/1,New Paris,New Paris,Philadelphia Zoo ,Philadelphia Zoo ,Stretch ,Graduation ,Yes ,Low ,Religous - Existing ,Yes ,Weather ,Invoiced
+11/2/2,McVeytown,New Paris,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Green Limo ,Travel/Airport ,Yes ,High ,Corporate - Existing ,No ,Personal ,Credit
+7/8/4,Liverpool,New Paris,Dutch Wonderland ,Dutch Wonderland ,Towne Car ,Anniversary ,No ,Medium ,School District - Existing ,No ,Health Related ,Invoiced
+6/6/11,Fairview,Big Run,Dorney Park ,Dorney Park ,Hummer Limo ,Holiday ,Yes ,Medium ,Corporate - New ,Yes ,Driver Error or Miscalculation ,Cash
+1/7/6,McVeytown,New Paris,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Towne Car ,Private ,Yes ,Medium ,Individual - Existing ,Yes ,Driver Error or Miscalculation ,Invoiced
+4/1/10,Big Run,East Brady,Hershey park ,Hershey park ,Stretch ,Tour ,Yes ,Medium ,Corporate - Existing ,Yes ,Weather ,Cash
+7/3/9,New Paris,Jefferson,Kennywood Park ,Kennywood Park ,Van ,Corporate ,Yes ,None ,Religous - Existing ,Yes ,Personal ,Check
+6/11/9,Jefferson,New Paris,lost river caverns ,lost river caverns ,Limo Bus ,Sporting Event ,No ,High ,Religous - Existing ,No , ,Credit
+2/6/9,Boswell,New Paris,Gettysburg ,Gettysburg ,School Bus ,Holiday ,Yes ,Medium ,School District - Existing ,No ,Moving or Traffic Violation ,Check
+12/7/7,Big Run,McVeytown,Sesame Place ,Sesame Place ,Limo Bus ,Graduation ,Yes ,None ,Religous - Existing ,Yes ,Weather ,Check
+7/6/11,McVeytown,Big Run,Liberty Bell ,Liberty Bell ,Limo Bus ,Cruise ,Yes ,High ,Individual - New ,No ,Health Related ,Invoiced
+6/10/11,Fairview,East Brady,Dutch Wonderland ,Dutch Wonderland ,Church Bus ,Graduation ,No ,High ,Individual - Existing ,Yes ,Driver Error or Miscalculation ,Personal Credit Card
+8/10/11,Boswell,Fairview,Dutch Wonderland ,Dutch Wonderland ,Hummer Limo ,Anniversary ,Yes ,None ,Corporate - Existing ,No ,Weather ,Rewards
+11/4/1,Cassandra,New Paris,Philadelphia Zoo ,Philadelphia Zoo ,Sedan ,Travel/Airport ,No ,High ,Religous - Existing ,No ,Moving or Traffic Violation ,Personal Credit Card
+5/10/1,Gilberton,New Paris,lost river caverns ,lost river caverns ,School Bus ,Sporting Event ,Yes ,Medium ,Religous - New ,Yes ,Weather ,Check
+3/12/8,New Paris,Boswell,Sesame Place ,Sesame Place ,Mini Van ,Tour ,Yes ,High ,School District - Existing ,Yes ,Maintenance ,Rewards
+7/6/9,New Paris,Cassandra,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Hummer Limo ,Holiday ,Yes ,Low ,Individual - New ,Yes ,Personal ,Cash
+8/6/4,Adams,Cassandra,Hershey park ,Hershey park ,Towne Car ,Cruise ,No ,None ,Corporate - New ,No ,Driver Error or Miscalculation ,Rewards
+7/6/2,Boswell,Yorkana,Dorney Park ,Dorney Park ,Towne Car ,Corporate ,No ,High ,Corporate - New ,Yes ,Maintenance ,Cash
+10/3/9,Jefferson,Boswell,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Travel/Airport ,No ,None ,Religous - Existing ,Yes ,Driver Error or Miscalculation ,Invoiced
+7/8/11,Adams,Big Run,Hershey park ,Hershey park ,Church Bus ,Funeral ,Yes ,Low ,Religous - New ,No ,Accident ,Check
+3/5/10,McVeytown,Jefferson,Dorney Park ,Dorney Park ,Limo Bus ,Private ,No ,High ,School District - Existing ,Yes ,Moving or Traffic Violation ,Invoiced
+8/4/9,Yorkana,Gilberton,Kennywood Park ,Kennywood Park ,Church Bus ,Cruise ,Yes ,Low ,School District - New ,No ,Health Related ,Credit
+8/1/2,Big Run,Cassandra,lost river caverns ,lost river caverns ,Van ,Birthday ,Yes ,None ,Corporate - New ,Yes , ,Check
+3/1/9,Big Run,Jefferson,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Van ,Graduation ,Yes ,Low ,Individual - New ,Yes , ,Cash
+8/6/4,East Brady,Cassandra,Dutch Wonderland ,Dutch Wonderland ,Towne Car ,Cruise ,No ,High ,Religous - New ,No ,Accident ,Check
+2/3/9,Yorkana,McVeytown,Dutch Wonderland ,Dutch Wonderland ,Min Bus ,Birthday ,No ,High ,Religous - Existing ,Yes ,Personal ,Check
+4/2/10,Big Run,Adams,Gettysburg ,Gettysburg ,Limo Bus ,Tour ,Yes ,High ,Individual - Existing ,No ,Health Related ,Cash
+7/8/1,East Brady,Boswell,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Van ,Private ,No ,High ,Individual - Existing ,No ,Maintenance ,Check
+12/3/4,Big Run,Boswell,Philadelphia Zoo ,Philadelphia Zoo ,Church Bus ,Travel/Airport ,Yes ,Low ,Religous - Existing ,Yes ,Accident ,Check
+2/2/11,Adams,Liverpool,Hershey park ,Hershey park ,Hummer Limo ,Cruise ,Yes ,Low ,School District - Existing ,No ,Health Related ,Personal Credit Card
+8/3/1,Adams,Jefferson,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Church Bus ,Funeral ,Yes ,Low ,Individual - Existing ,No ,Maintenance ,Invoiced
+8/12/12,Boswell,Liverpool,lost river caverns ,lost river caverns ,Church Bus ,Graduation ,No ,Low ,Corporate - New ,No ,Driver Error or Miscalculation ,Check
+8/3/4,Adams,Gilberton,Liberty Bell ,Liberty Bell ,Towne Car ,Graduation ,Yes ,Medium ,School District - New ,Yes ,Personal ,Invoiced
+1/6/12,East Brady,East Brady,Waldameer and Water World ,Waldameer and Water World ,Stretch ,Sporting Event ,No ,Medium ,Religous - Existing ,Yes ,Moving or Traffic Violation ,Rewards
+9/7/8,Big Run,Jefferson,lost river caverns ,lost river caverns ,Ford Excursion ,Wedding ,Yes ,High ,Individual - New ,Yes ,Maintenance ,Personal Credit Card
+9/4/7,Liverpool,Gilberton,Dutch Wonderland ,Dutch Wonderland ,Hummer Limo ,Travel/Airport ,Yes ,Medium ,Corporate - Existing ,Yes ,Maintenance ,Cash
+1/6/1,Cassandra,Boswell,Sesame Place ,Sesame Place ,Van ,Travel/Airport ,No ,Low ,Religous - Existing ,Yes ,Health Related ,Rewards
+7/4/8,East Brady,Liverpool,Liberty Bell ,Liberty Bell ,Limo Bus ,Travel/Airport ,No ,Medium ,Corporate - Existing ,Yes , ,Credit
+5/6/2,Adams,Fairview,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Church Bus ,Travel/Airport ,No ,None ,School District - Existing ,No , ,Rewards
+4/7/5,East Brady,Liverpool,Waldameer and Water World ,Waldameer and Water World ,Van ,Graduation ,No ,None ,Individual - New ,Yes ,Driver Error or Miscalculation ,Rewards
+12/9/2,Fairview,East Brady,Hershey park ,Hershey park ,Stretch ,Corporate ,Yes ,Medium ,School District - Existing ,No ,Weather ,Credit
+4/2/1,Adams,Big Run,Philadelphia Zoo ,Philadelphia Zoo ,Stretch ,Funeral ,Yes ,Low ,Individual - Existing ,No , ,Credit
+5/9/9,Liverpool,Yorkana,lost river caverns ,lost river caverns ,Ford Excursion ,Graduation ,Yes ,None ,School District - Existing ,Yes ,Health Related ,Credit
+4/10/6,Jefferson,East Brady,Gettysburg ,Gettysburg ,School Bus ,Graduation ,Yes ,Low ,Corporate - Existing ,No ,Accident ,Personal Credit Card
+12/6/8,Big Run,Fairview,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Hummer Limo ,Graduation ,No ,High ,Individual - New ,No ,Weather ,Check
+1/6/12,Big Run,New Paris,Waldameer and Water World ,Waldameer and Water World ,Hummer Limo ,Graduation ,Yes ,None ,Individual - New ,Yes ,Accident ,Cash
+3/6/3,Big Run,Big Run,Hershey park ,Hershey park ,Church Bus ,Graduation ,Yes ,Medium ,Corporate - Existing ,No ,Health Related ,Personal Credit Card
+1/10/2,Big Run,Jefferson,Gettysburg ,Gettysburg ,Van ,Corporate ,Yes ,Low ,Religous - Existing ,Yes ,Accident ,Check
+7/5/2,Gilberton,Big Run,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Stretch ,Funeral ,No ,Medium ,Corporate - New ,Yes ,Health Related ,Check
+6/10/4,Big Run,Liverpool,Philadelphia Zoo ,Philadelphia Zoo ,Van ,Cruise ,Yes ,High ,Corporate - New ,Yes ,Driver Error or Miscalculation ,Cash
+12/4/2,Big Run,McVeytown,Waldameer and Water World ,Waldameer and Water World ,Green Limo ,Travel/Airport ,Yes ,High ,Corporate - Existing ,No ,Driver Error or Miscalculation ,Cash
+10/1/6,New Paris,Adams,Liberty Bell ,Liberty Bell ,Mini Van ,Private ,No ,Medium ,School District - Existing ,Yes ,Accident ,Personal Credit Card
+5/5/11,Gilberton,Boswell,Kennywood Park ,Kennywood Park ,Hummer Limo ,Travel/Airport ,Yes ,High ,School District - New ,Yes ,Weather ,Credit
+4/9/10,Fairview,McVeytown,Hershey park ,Hershey park ,Van ,Private ,No ,Medium ,Corporate - New ,Yes ,Maintenance ,Cash
+12/3/1,Jefferson,New Paris,Gettysburg ,Gettysburg ,Towne Car ,Wedding ,No ,High ,Corporate - New ,Yes ,Health Related ,Invoiced
+3/8/7,Gilberton,Liverpool,Hershey park ,Hershey park ,Towne Car ,Funeral ,Yes ,Medium ,Corporate - Existing ,Yes ,Maintenance ,Rewards
+2/2/5,McVeytown,Cassandra,Kennywood Park ,Kennywood Park ,School Bus ,Graduation ,Yes ,None ,Corporate - Existing ,Yes , ,Rewards
+12/11/3,McVeytown,Yorkana,Carnegie Museum of Natural History ,Carnegie Museum of Natural History ,Min Bus ,Anniversary ,No ,None ,School District - Existing ,No ,Personal ,Check
+2/4/11,Yorkana,East Brady,Hershey park ,Hershey park ,Green Limo ,Sporting Event ,Yes ,Medium ,School District - Existing ,No ,Personal ,Credit
+1/5/9,Fairview,Big Run,Waldameer and Water World ,Waldameer and Water World ,Church Bus ,Birthday ,Yes ,Low ,Corporate - Existing ,No ,Moving or Traffic Violation ,Check
+6/8/2,New Paris,Jefferson,Liberty Bell ,Liberty Bell ,School Bus ,Sporting Event ,Yes ,None ,Individual - New ,No ,Moving or Traffic Violation ,Invoiced
+4/9/1,Boswell,Gilberton,Gettysburg ,Gettysburg ,Sedan ,Tour ,Yes ,Low ,Individual - New ,No , ,Rewards
+2/10/4,Big Run,Boswell,Waldameer and Water World ,Waldameer and Water World ,Ford Excursion ,Travel/Airport ,No ,Low ,Individual - New ,No ,Personal ,Rewards
+9/8/8,Boswell,New Paris,Gettysburg ,Gettysburg ,Towne Car ,Holiday ,No ,None ,Religous - Existing ,Yes ,Moving or Traffic Violation ,Rewards
+9/1/5,Jefferson,New Paris,lost river caverns ,lost river caverns ,School Bus ,Travel/Airport ,Yes ,High ,Corporate - New ,Yes ,Accident ,Cash
+7/11/7,Yorkana,New Paris,Hershey park ,Hershey park ,Church Bus ,Anniversary ,Yes ,None ,Religous - Existing ,No ,Driver Error or Miscalculation ,Personal Credit Card
+12/9/9,Yorkana,McVeytown,lost river caverns ,lost river caverns ,Towne Car ,Cruise ,No ,Low ,Individual - New ,Yes ,Health Related ,Invoiced
+12/1/2,Boswell,Big Run,Gettysburg ,Gettysburg ,Stretch ,Private ,Yes ,High ,School District - New ,Yes ,Personal ,Credit
+1/11/5,Big Run,McVeytown,Philadelphia Zoo ,Philadelphia Zoo ,Stretch ,Graduation ,Yes ,Low ,Corporate - New ,No ,Accident ,Invoiced
+11/1/12,Fairview,Adams,lost river caverns ,lost river caverns ,Green Limo ,Tour ,Yes ,Low ,Corporate - Existing ,No , ,Rewards
+2/7/8,Jefferson,New Paris,Gettysburg ,Gettysburg ,Church Bus ,Sporting Event ,Yes ,Medium ,School District - Existing ,No ,Health Related ,Rewards
+11/10/2,Liverpool,Yorkana,Dutch Wonderland ,Dutch Wonderland ,Van ,Wedding ,No ,High ,Religous - New ,No ,Driver Error or Miscalculation ,Check
+2/7/2,Gilberton,Yorkana,King of Prussia Shopping Mall ,King of Prussia Shopping Mall ,Ford Excursion ,Anniversary ,No ,None ,Corporate - New ,Yes ,Accident ,Personal Credit Card
+3/11/11,Fairview,Cassandra,lost river caverns ,lost river caverns ,School Bus ,Anniversary ,Yes ,High ,Religous - New ,No ,Accident ,Credit
+10/7/1,Yorkana,New Paris,Gettysburg ,Gettysburg ,Green Limo ,Tour ,Yes ,None ,School District - New ,No ,Moving or Traffic Violation ,Cash
+9/8/5,Cassandra,Big Run,Waldameer and Water World ,Waldameer and Water World ,Church Bus ,Graduation ,No ,Medium ,School District - New ,Yes ,Driver Error or Miscalculation ,Invoiced
