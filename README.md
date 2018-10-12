@@ -48,7 +48,7 @@ With the following software and hardware list you can run all code files present
 James Miller is an innovator and accomplished Sr. Project Lead and Solution Architect with 37 years experience. of extensive design and development across multiple platforms and technologies. Roles include leveraging his consulting experience to provide hands-on leadership in all phases of advanced analytics and related technology projects, providing recommendations for process improvement, report accuracy, adoption of disruptive technologies, enablement, and insight identification.
 Author: Statistics for Data Science, Mastering Predictive Analytics w/R, Big Data Visualization, Learning Watson Analytics, Implementing Splunk, Mastering Splunk, 5 Guiding Principles of a Successful Center of Excellence, and TM1 Developer's Certification Guide.
 
-## Other books by the authors
+## Other books by the author
 * [Mastering Predictive Analytics with R - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/mastering-predictive-analytics-r-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787121393)
 * [Big Data Visualization](https://www.packtpub.com/big-data-and-business-intelligence/big-data-visualization?utm_source=github&utm_medium=repository&utm_campaign=9781785281945)
 
