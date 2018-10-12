@@ -1,6 +1,6 @@
 # IBM Watson Projects
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/ibm-watson-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789343717" alt="IBM Watson Projects" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/ibm-watson-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789343717"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781789343717-%20Copy.png" alt="IBM Watson Projects" height="256px" align="right"></a>
 
 This is the code repository for [IBM Watson Projects](https://www.packtpub.com/big-data-and-business-intelligence/ibm-watson-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789343717), published by Packt.
 
